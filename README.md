@@ -17,6 +17,7 @@ Rift-Breakers-Codex/
 
 ## FULL PROJECT STRUCTURE (AUTHORITATIVE)
 
+```text
 Rift-Breakers-Codex/
 ├── README.md
 │
