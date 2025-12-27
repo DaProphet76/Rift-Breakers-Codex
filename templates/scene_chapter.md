@@ -1,14 +1,17 @@
 ---
-title: Chapter 02 (Draft Placeholder)
-type: scene_chapter
-status: draft
-version: '1.0'
-last_updated: '2025-12-26'
-author: Yoshua Israel
-source: Codex
-related_entries: []
+title: "<SCENE / CHAPTER TITLE>"
+type: "scene"
+status: "draft"
+version: "0.1"
+last_updated: "2025-12-26"
+author: "Yoshua Israel"
+source: "Codex"
+related_entries:
+  - "characters/<CHARACTER>.md"
+  - "world_bible/locations/<LOCATION>.md"
 tags:
-- scene_chapter
+  - "scene"
+  - "<ARC>"
 ---
 
 # <SCENE / CHAPTER TITLE>
@@ -50,9 +53,3 @@ tags:
 
 ## References
 - <links>
-
-## Existing Content
-
-# Chapter 02 (Draft Placeholder)
-
-Continue escalation of anomalies and stakes.

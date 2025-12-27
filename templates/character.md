@@ -1,14 +1,17 @@
 ---
-title: Antagonistic Forces (Dossier)
-type: character
-status: draft
-version: '1.0'
-last_updated: '2025-12-26'
-author: Yoshua Israel
-source: Codex
-related_entries: []
+title: "<CHARACTER NAME>"
+type: "character"
+status: "draft"
+version: "0.1"
+last_updated: "2025-12-26"
+author: "Yoshua Israel"
+source: "Codex"
+related_entries:
+  - "world_bible/tenets/<TENET>.md"
+  - "world_bible/artifacts/<ARTIFACT>.md"
 tags:
-- character
+  - "character"
+  - "<FACTION>"
 ---
 
 # <CHARACTER NAME>
@@ -60,23 +63,3 @@ tags:
 
 ## References
 - <links>
-
-## Existing Content
-
-# Antagonistic Forces (Dossier)
-
-## Core Types
-1. **Corrupted Practitioners**
-   - attempt forced access without alignment
-   - destabilize self and surroundings
-
-2. **False Code Systems**
-   - written imitations that promise power
-   - produce corruption and control structures
-
-3. **Spiritual Entities**
-   - exploit the gap created by the Tear
-   - influence human actors through pacts and deception
-
-## Notes
-- Specific factions/entities TBD
