@@ -1,0 +1,1 @@
+World Bible — Absolute Canon
