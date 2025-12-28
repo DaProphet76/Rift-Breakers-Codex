@@ -34,9 +34,13 @@ Rift-Breakers-Codex/
 │   └── tenants.md
 │
 ├── story/
+│   ├── prologue/
+│   │   └── chapter_00.md
+│   │
 │   ├── book_01_ignorance/
 │   │   ├── outline.md
 │   │   ├── anomalies.md
+│   │   ├── chapter_00.md
 │   │   ├── chapter_01.md
 │   │   └── chapter_02.md
 │   │

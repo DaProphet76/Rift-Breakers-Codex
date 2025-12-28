@@ -1,12 +1,12 @@
 ---
-title: "Hero Sync Classification"
+title: "Resonance Tier Classification"
 type: "system_magic_or_anomaly"
 status: "canon"
 ---
 
 ## Summary
-Hero Sync measures how closely an individual's Echo aligns with the Resonance.
-It is a measure of stability, not raw power.
+Resonance Tier measures how closely an individual's Echo aligns with the Resonance.
+It is a measure of stability and compatibility, not raw power.
 
 ## Tiers
 
@@ -26,7 +26,7 @@ Rare. Strategic-level assets under strict control.
 Terminal classification.
 
 Subjects experience severe psychological destabilization, intrusive cognition,
-self-harm or violence, and in some cases possession events due to open habitation channels.
+self-harm or violence, and in some cases demonic possession events due to open habitation channels.
 
 No successful stabilization has ever been recorded.
 All known cases end in death or demonic possession.
