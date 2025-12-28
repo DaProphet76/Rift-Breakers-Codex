@@ -36,3 +36,9 @@ Knowledge without alignment produces counterfeit systems:
 - false codes,
 - corrupted doctrines,
 - ritual shortcuts that damage the user.
+
+## Eight Families — Hidden Truth
+- The so-called **Lesser Family** is not a single bloodline.
+- Its **Twelve Branches** do **not** share one root seed.
+- The doctrine of a “fractured lineage” is a controlled narrative used to justify caste behavior.
+
