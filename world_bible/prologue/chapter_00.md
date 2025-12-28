@@ -49,7 +49,7 @@ An Echo settled into us.
 
 Some awakened.
 Not kings. Not lords.
-People from streets like mine.
+But random people. Some from streets like mine.
 
 Demons learned they could die.
 
