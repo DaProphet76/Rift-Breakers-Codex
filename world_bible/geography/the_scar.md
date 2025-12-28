@@ -1,6 +1,14 @@
-# The Scar
+---
+name: The Scar
+type: location
+status: restricted
+---
 
-The Scar is a massive deadland crater formed during the Sundering Fall.
+## Description
+A massive cratered deadland formed during the Sundering Fall.
 
-Life fails to thrive. Expeditions rarely return unchanged.
-It is a place of taboo and warning.
+## Environment
+Little life persists. Weather behaves unnaturally.
+
+## Cultural Significance
+A taboo region and reminder of catastrophe.

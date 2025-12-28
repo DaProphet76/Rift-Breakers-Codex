@@ -1,8 +1,17 @@
-# The Sundering Fall
+---
+title: The Sundering Fall
+type: timeline_entry
+status: taught_history
+---
 
-The Sundering Fall marks the end of the First Age.
+## Summary
+A world-ending cataclysm that shattered civilizations and reshaped the land.
 
-It shattered cities, displaced seas, and left a vast cratered deadland known as **the Scar**.
-Little lives there. Storms bend around it.
+## Details
+The Sundering Fall destroyed cities, displaced seas, and left behind a vast cratered deadland known as the Scar.
 
-The world that existed before did not survive.
+## Cultural Impact
+Taught as judgment, disaster, or consequence depending on authority.
+
+## Open Questions
+What truly caused the Sundering remains disputed.

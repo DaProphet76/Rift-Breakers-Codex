@@ -1,19 +1,17 @@
-# The Eight Great Families
+---
+name: The Eight Great Families
+type: faction
+status: active
+---
 
-Civilization is structured around eight ancestral families.
+## Overview
+Eight ancestral families form the foundation of civilization.
 
-## Seven High Families
-- Valenor — Law
-- Kethryn — Military
-- Aurel — Commerce and rule
-- Solmyr — Knowledge
-- Dravain — Infrastructure
-- Elyndor — Culture
-- Marric — Civic doctrine
+## High Families
+Seven families compete for rulership. House Aurel dominates.
 
-## The Lesser Family
-Believed to be one family with twelve branches.
+## Lesser Family
+One family with twelve branches, believed to share a single lineage. They do not.
 
-They do not share the same root seed.
-
-Slavery is abolished. Disdain is not.
+## Social Status
+Slavery abolished. Discrimination remains.

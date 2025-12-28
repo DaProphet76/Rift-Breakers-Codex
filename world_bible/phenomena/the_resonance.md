@@ -1,5 +1,14 @@
-# The Resonance
+---
+name: The Resonance
+type: system_anomaly
+status: active
+---
 
-The Resonance was released when an ancient artifact was unearthed.
+## Event
+Released when an ancient artifact was unearthed.
 
-It left an **Echo** within human DNA, awakening latent abilities.
+## Effect
+Left an Echo within human DNA.
+
+## Outcome
+Unlocked latent abilities in select individuals.
