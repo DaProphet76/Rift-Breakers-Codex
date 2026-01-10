@@ -40,11 +40,13 @@ Life in the outer ring is defined by routine, surveillance, and quiet fear. As t
 
 Morning came late to the outer districts.
 
-Not because the sun delayed—only because the light had farther to travel. It slipped past towers and shield-plates, thinned by layers of steel and old decisions, losing warmth as it went. By the time it reached the streets at the city’s edge, it was pale and uncertain, more reminder than promise.
+Not because the sun delayed, only because the light had farther to travel. It slipped past towers and shield-plates, thinned by layers of steel and old decisions, losing warmth as it went. By the time it reached the streets at the city’s edge, it was pale and uncertain, more reminder than promise.
 
 The boy woke to sirens.
 
 Not the sharp, tearing kind that meant danger. Those were reserved for breaches and alarms that drove people indoors. These were slower. Measured. Work-call tones that rolled across the outer ring like a tired breath, reminding everyone that the day had begun whether they were ready for it or not.
+
+Something in him tightened at the sound, though nothing in the tone suggested danger.
 
 He lay still and listened.
 
@@ -119,14 +121,6 @@ Past the checkpoint, the corridor widened into the market spine. The tension loo
 “Fresh bread,” a vendor called.
 
 No one argued.
-
-The screens flickered.
-
-Warnings dissolved into faces—clean, bright, smiling.
-
-*GET TESTED.*  
-*GET SEEN.*  
-*GET OUT.*
 
 Kellan waited near the work bay, chewing a ration-stick.
 
