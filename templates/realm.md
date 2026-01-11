@@ -1,16 +1,15 @@
 ---
-title: "<REALM NAME>"
-type: "realm"
+title: "Realm"
+type: "world_bible_entry"
 status: "draft"
-version: "0.1"
-last_updated: "2025-12-26"
+version: "1.0"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-  - "world_bible/tenets/<TENET>.md"
+related_entries: []
 tags:
-  - "realm"
-  - "<TAG>"
+- canon-review
+- structured
 ---
 
 # <REALM NAME>

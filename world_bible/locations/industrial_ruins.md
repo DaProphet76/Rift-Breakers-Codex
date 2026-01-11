@@ -1,20 +1,15 @@
 ---
 title: "Industrial Ruins"
 type: "location"
-status: "canon"
+status: "draft"
 version: "1.0"
-last_updated: "2026-01-10"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-- Scavenging
-- Outer Ring Districts
-- Downed Transports
+related_entries: []
 tags:
-- location
-- outer-ring
-- scavenging
-- ruins
+- canon-review
+- structured
 ---
 
 ## Summary

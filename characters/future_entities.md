@@ -1,6 +1,6 @@
 ---
-title: "REPLACE_ME"
-type: "REPLACE_ME"
+title: "Future Entities"
+type: "character"
 status: "draft"
 version: "1.0"
 last_updated: "2026-01-11"
@@ -8,8 +8,8 @@ author: "Yoshua Israel"
 source: "Codex"
 related_entries: []
 tags:
-- needs-review
-- metadata
+- canon-review
+- structured
 ---
 
 # Future Entities (Dossier)

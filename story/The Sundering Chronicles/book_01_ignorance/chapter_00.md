@@ -1,19 +1,15 @@
 ---
-title: "Prologue"
+title: "Chapter 00"
 type: "chapter"
-status: "locked"
+status: "draft"
 version: "1.0"
-last_updated: "2026-01-10"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-- The Scar
-- The Eight Great Families
-- The Resonance
+related_entries: []
 tags:
-- prologue
-- world_origin
-- resonance
+- canon-review
+- structured
 ---
 
 ## Chapter Summary

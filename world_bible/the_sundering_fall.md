@@ -1,17 +1,15 @@
 ---
-title: The Sundering Fall
-type: note
-status: draft
-version: '1.0'
-last_updated: '2025-12-27'
-author: Yoshua Israel
-source: Codex
+title: "The Sundering Fall"
+type: "world_bible_entry"
+status: "draft"
+version: "1.0"
+last_updated: "2026-01-11"
+author: "Yoshua Israel"
+source: "Codex"
 related_entries: []
 tags:
-- note
-- timeline
-- cataclysm
-- history
+- canon-review
+- structured
 ---
 
 # The Sundering Fall

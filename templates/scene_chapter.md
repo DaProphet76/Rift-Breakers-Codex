@@ -1,17 +1,15 @@
 ---
-title: "<SCENE / CHAPTER TITLE>"
-type: "scene"
+title: "Scene Chapter"
+type: "world_bible_entry"
 status: "draft"
-version: "0.1"
-last_updated: "2025-12-26"
+version: "1.0"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-  - "characters/<CHARACTER>.md"
-  - "world_bible/locations/<LOCATION>.md"
+related_entries: []
 tags:
-  - "scene"
-  - "<ARC>"
+- canon-review
+- structured
 ---
 
 # <SCENE / CHAPTER TITLE>

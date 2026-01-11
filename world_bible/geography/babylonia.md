@@ -1,21 +1,15 @@
 ---
 title: "Babylonia"
-type: "location"
-status: "canon"
+type: "world_bible_entry"
+status: "draft"
 version: "1.0"
-last_updated: "2026-01-10"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-- District Rings
-- Asher Renn
-- Rifts
+related_entries: []
 tags:
-- city
-- babylonia
-- geography
-- rings
-- governance
+- canon-review
+- structured
 ---
 
 ![](../../imgs/IMG_0029.png)

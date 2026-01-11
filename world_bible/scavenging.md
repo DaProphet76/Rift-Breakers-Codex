@@ -1,20 +1,15 @@
 ---
 title: "Scavenging"
 type: "world_bible_entry"
-status: "canon"
+status: "draft"
 version: "1.0"
-last_updated: "2026-01-10"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-- Outer Ring Districts
-- Industrial Ruins
-- Downed Transports
+related_entries: []
 tags:
-- scavengers
-- survival
-- economy
-- outer-ring
+- canon-review
+- structured
 ---
 
 ## Summary

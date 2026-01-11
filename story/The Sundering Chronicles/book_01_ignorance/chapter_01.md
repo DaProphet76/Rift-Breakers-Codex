@@ -1,20 +1,15 @@
 ---
-title: Chapter 01 — Morning comes late
-type: scene_chapter
-status: draft
-version: '1.0'
-last_updated: '2025-12-28'
-author: Yoshua Israel
-source: Codex
-related_entries:
-  - world_bible/district_rings.md
-  - world_bible/the_resonance.md
-  - world_bible/society/eight_great_families.md
+title: "Chapter 01"
+type: "chapter"
+status: "draft"
+version: "1.0"
+last_updated: "2026-01-11"
+author: "Yoshua Israel"
+source: "Codex"
+related_entries: []
 tags:
-  - scene_chapter
-  - book_01
-  - ignorance
-  - outer_ring
+- canon-review
+- structured
 ---
 
 ---
@@ -282,4 +277,3 @@ And it was patient.
 
 ## References
 - prologue
-

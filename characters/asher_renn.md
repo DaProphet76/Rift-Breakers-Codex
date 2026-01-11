@@ -1,18 +1,15 @@
 ---
 title: "Asher Renn"
 type: "character"
-status: "canon"
+status: "draft"
 version: "1.0"
-last_updated: "2025-12-28"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-- mara
-- kellan
+related_entries: []
 tags:
-- character
-- supporting_lead
-- witness
+- canon-review
+- structured
 ---
 
 ## Quick Identity

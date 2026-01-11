@@ -1,15 +1,15 @@
 ---
-title: "<TITLE>"
-type: "<TYPE>"  # realm | tenet | artifact | character | event | location | faction | creature | system | timeline | scene | note
-status: "draft" # draft | canon | revised | deprecated
-version: "0.1"
-last_updated: "2025-12-26"
+title: "01 Base Frontmatter"
+type: "world_bible_entry"
+status: "draft"
+version: "1.0"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-  - "<PATH_OR_SLUG>"
+related_entries: []
 tags:
-  - "<TAG>"
+- canon-review
+- structured
 ---
 
 # <TITLE>

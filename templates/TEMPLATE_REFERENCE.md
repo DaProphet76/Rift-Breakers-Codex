@@ -1,17 +1,15 @@
 ---
-title: "TEMPLATE_REFERENCE"
-type: "template_reference"
-status: "canon"
+title: "Template Reference"
+type: "world_bible_entry"
+status: "draft"
 version: "1.0"
-last_updated: "YYYY-MM-DD"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
 related_entries: []
 tags:
-- templates
-- reference
-- frontmatter
-- structure
+- canon-review
+- structured
 ---
 
 ## Codex Scope Rule (MANDATORY)

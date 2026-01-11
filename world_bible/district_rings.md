@@ -1,21 +1,15 @@
 ---
 title: "District Rings"
 type: "world_bible_entry"
-status: "canon"
-version: "1.1"
-last_updated: "2026-01-10"
+status: "draft"
+version: "1.0"
+last_updated: "2026-01-11"
 author: "Yoshua Israel"
 source: "Codex"
-related_entries:
-- Babylonia
-- Rifts
-- The Resonance
+related_entries: []
 tags:
-- society
-- districts
-- rings
-- class
-- control
+- canon-review
+- structured
 ---
 
 ## Summary
