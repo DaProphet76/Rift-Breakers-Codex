@@ -14,288 +14,164 @@ tags:
 - structure
 ---
 
+## Codex Scope Rule (MANDATORY)
+
+The Codex is a reference system only.
+
+The following are NOT permitted in any Codex file:
+- Full prose scenes or chapters
+- Batch text
+- Dialogue blocks
+- Verbatim source material (e.g., Dragonlance novels)
+- Narrative written for reader immersion
+
+All Codex entries must be:
+- Summarized
+- Structured
+- Non-prose
+- Canon-referential only
+
+Story prose belongs exclusively in /story/.
+Source inspiration belongs outside the repository or in /sources/.
+
+---
+
 # Universal Metadata Header (REQUIRED FOR ALL FILES)
 
-Copy this block into every new file, then fill it in:
+Every Codex file must begin with a YAML metadata block using the following fields:
 
-```md
----
-title: "..."
-type: "..."
-status: "..."
-version: "1.0"
-last_updated: "YYYY-MM-DD"
-author: "Yoshua Israel"
-source: "Codex"
-related_entries: []
-tags:
-- tag1
-- tag2
----
-```
+title  
+type  
+status  
+version  
+last_updated  
+author  
+source  
+related_entries  
+tags  
 
-Notes:
-- `type` controls which body template below you use.
-- `related_entries` is always a YAML list (even if empty).
-- `tags` is always a YAML list (at least 2 tags).
+Rules:
+- `related_entries` is always a YAML list
+- `tags` is always a YAML list with at least two values
+- `type` determines which template structure below must be used
 
 ---
 
 # Template Type: world_bible_entry
 
-Use for: doctrine, lore summaries, concepts, high-level reference entries.
+Use for doctrine, lore summaries, concepts, and high-level reference entries.
 
-```md
-## Summary
-[1–3 sentences. What this entry is.]
-
-## Canon Notes
-- **Confirmed:** [...]
-- **Not revealed yet:** [...]
-- **Open questions:** [...]
-
-## Details
-[The main explanation. Keep organized; use subsections if needed.]
-
-## Cultural Impact
-[How the world believes/talks about this.]
-
-## Known Conflicts / Tensions
-- [...]
-
-## References
-- [link to other entries]
-```
+Sections required:
+- Summary
+- Canon Notes
+- Details
+- Cultural Impact
+- Known Conflicts / Tensions
+- References
 
 ---
 
 # Template Type: system_magic_or_anomaly
 
-Use for: Resonance tiers, rifts mechanics, testing, constraints, rules.
+Use for Resonance tiers, rift mechanics, testing systems, constraints, and rules.
 
-```md
-## Summary
-[What the system is and why it matters.]
-
-## Definitions
-- **Key Term:** definition
-- **Key Term:** definition
-
-## Rules / Constraints
-1. [...]
-2. [...]
-3. [...]
-
-## Observable Effects
-- [...]
-
-## Failure Modes
-- [...]
-
-## Institutional Use / Exploitation
-[How corporations/governments weaponize or manage it.]
-
-## Canon Notes
-- **Confirmed:** [...]
-- **Suppressed:** [...]
-- **Open questions:** [...]
-
-## References
-- [...]
-```
+Sections required:
+- Summary
+- Definitions
+- Rules / Constraints
+- Observable Effects
+- Failure Modes
+- Institutional Use / Exploitation
+- Canon Notes
+- References
 
 ---
 
 # Template Type: faction
 
-Use for: families, corporations, institutions, gangs, councils.
+Use for families, corporations, institutions, gangs, and councils.
 
-```md
-## Overview
-[Who they are.]
-
-## Structure
-- Leadership: [...]
-- Subgroups: [...]
-- Reach: [...]
-
-## Goals
-- Public: [...]
-- Private: [...]
-
-## Methods
-- [...]
-
-## Relationships
-- Allies: [...]
-- Rivals: [...]
-- Enemies: [...]
-
-## Notable Members
-- **Name:** role
-- **Name:** role
-
-## Canon Notes
-- **Confirmed:** [...]
-- **Not revealed yet:** [...]
-- **Open questions:** [...]
-
-## References
-- [...]
-```
+Sections required:
+- Overview
+- Structure
+- Goals
+- Methods
+- Relationships
+- Notable Members
+- Canon Notes
+- References
 
 ---
 
 # Template Type: character
 
-Use for: any named character (including narrator once named).
+Use for any named character.
 
-```md
-## Quick Identity
-- **Full Name:** [...]
-- **Aliases:** [...]
-- **Origin / District:** [...]
-- **Age:** [...]
-- **Role in Story:** [...]
-
-## Appearance
-[Concrete, visual.]
-
-## Personality
-- Strengths: [...]
-- Flaws: [...]
-- Fears: [...]
-- Desires: [...]
-
-## Background
-[What shaped them.]
-
-## Motivations
-- Short-term: [...]
-- Long-term: [...]
-
-## Relationships
-- [...]
-
-## Arc
-- Start: [...]
-- Pressure: [...]
-- Change: [...]
-- End state (planned): [...]
-
-## Secrets / Reveals
-- [...]
-
-## Canon Notes
-- **Confirmed:** [...]
-- **Not revealed yet:** [...]
-- **Open questions:** [...]
-
-## References
-- [...]
-```
+Sections required:
+- Quick Identity
+- Appearance
+- Personality
+- Background
+- Motivations
+- Relationships
+- Arc
+- Secrets / Reveals
+- Canon Notes
+- References
 
 ---
 
 # Template Type: location
 
-Use for: districts, zones, landmarks (e.g., The Scar), facilities.
+Use for districts, zones, landmarks, and facilities.
 
-```md
-## Summary
-[What and where.]
-
-## Description
-[Physical description and feel.]
-
-## Environment / Conditions
-- [...]
-
-## Population / Control
-- Who controls it: [...]
-- Who lives there: [...]
-
-## Risks
-- [...]
-
-## Narrative Use
-[Why this place matters in-story.]
-
-## Canon Notes
-- **Confirmed:** [...]
-- **Not revealed yet:** [...]
-- **Open questions:** [...]
-
-## References
-- [...]
-```
+Sections required:
+- Summary
+- Description
+- Environment / Conditions
+- Population / Control
+- Risks
+- Narrative Use
+- Canon Notes
+- References
 
 ---
 
 # Template Type: timeline_entry
 
-Use for: Sundering Fall, wars, district formation era, Resonance event.
+Use for historical or era-defining events.
 
-```md
-## Summary
-[Single paragraph.]
-
-## Date / Era
-- **Era Name:** [...]
-- **Approx. Date:** [...]
-
-## What Happened
-1. [...]
-2. [...]
-3. [...]
-
-## Consequences
-- Social: [...]
-- Political: [...]
-- Geographic: [...]
-
-## What People Are Taught
-[Official narrative, if different.]
-
-## Canon Notes
-- **Confirmed:** [...]
-- **Not revealed yet:** [...]
-- **Open questions:** [...]
-
-## References
-- [...]
-```
+Sections required:
+- Summary
+- Date / Era
+- What Happened
+- Consequences
+- What People Are Taught
+- Canon Notes
+- References
 
 ---
 
 # Template Type: scene
 
-Use for: story prose scenes (chapter files).
+Use for isolated story scenes only.
 
-```md
-## Summary
-[2–4 lines: what happens in this scene.]
+Sections required:
+- Summary
+- Scene
+- References
 
-## Scene
-[WRITE PROSE HERE — no bullet points.]
-
-## References
-- [Optional: only if you want the scene to point at world_bible entries.]
-```
+Note: Scenes may contain prose, but must live outside the Codex unless explicitly referenced.
 
 ---
 
 # Template Type: chapter
 
-Use for: a full merged chapter file (e.g., Chapter 01).
+Use for full chapter files only.
 
-```md
-## Chapter Summary
-[Short summary of the chapter.]
+Sections required:
+- Chapter Summary
+- Chapter
+- References
 
-## Chapter
-[WRITE THE FULL CHAPTER PROSE HERE — no batch breaks unless you label them.]
-
-## References
-- [Optional]
-```
+Note: Chapters never belong in the Codex.
