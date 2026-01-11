@@ -18,6 +18,8 @@ tags:
 - governance
 ---
 
+![](../../imgs/IMG_0029.png)
+
 ## Summary
 Babylonia is a fortified megacity constructed in concentric rings, serving as one of the most advanced and oppressive examples of post–Rift Age urban control. Designed for survivability and authority rather than freedom, Babylonia enforces rigid class separation through architecture, permits, and militarized infrastructure.
 
