@@ -549,10 +549,9 @@ The boundary markings were unmistakable.
 The forbidden sector waited in silence.
 
 
-### Batch 3 — The forbidden line
+### The forbidden line
 *With the rival gang close behind and every safe route collapsing, Asher, Kade, and Rennick reach the boundary of the forbidden sector. The pursuers refuse to cross. Inside, the world shifts—sound, heat, and light behaving wrong—and Asher experiences an involuntary response, as if the sector recognizes him.*
 
-#### The boundary
 
 The boundary markings weren’t official, but they didn’t need to be.
 
