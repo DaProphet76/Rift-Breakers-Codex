@@ -11,10 +11,14 @@
             "id": "1136efd283ff4cc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "story/The Sundering Chronicles/book_01_ignorance/full_story_cleaned.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "full_story_cleaned"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Chapter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,6 +186,8 @@
   },
   "active": "1136efd283ff4cc0",
   "lastOpenFiles": [
+    "story/The Sundering Chronicles/book_01_ignorance/full_story_cleaned.md",
+    "story/The Sundering Chronicles/book_01_ignorance/Unconfirmed 194118.crdownload",
     "story/The Sundering Chronicles/book_01_ignorance/chapter_02.mdx",
     "story/The Sundering Chronicles/book_01_ignorance/Test.md",
     "story/The Sundering Chronicles/book_01_ignorance/Chapter_02.md",
@@ -208,8 +215,6 @@
     "imgs/characters/Kade",
     "imgs/characters/Rennick",
     "imgs/characters/Asher Renn",
-    "imgs/characters",
-    "imgs/Places/babylonia",
     "characters/Sera Dain/profile.md",
     "characters/Sera Dain/growth.md",
     "characters/Kade/profile.md",
