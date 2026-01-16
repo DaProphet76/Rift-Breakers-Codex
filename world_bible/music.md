@@ -1,0 +1,14 @@
+### M-003 — Crimson Overture (Reference Only)
+- **Chapter / Batch:** TBD (motif candidate)
+- **Scene Description:** Dark foreshadowing, ritual tension, approaching inevitability
+- **Cue Title:** Crimson Overture
+- **Composer / Artist:** Bloodlit Omen (playlist source)
+- **Type:** Theme / Tension
+- **Intensity:** Medium → High (slow build)
+- **Why This Fits:** Establishes a blood-ritual tone with restrained menace; effective for omen, pre-conflict, or revelation scenes without overt action
+- **Status:** Referenced (not extracted)
+- **Notes:**  
+  - YouTube Source: https://www.youtube.com/watch?v=FVwA43wfqq0  
+  - Playlist Title: *Bloodlit Omen 🩸 | Dark-Pop Ritual Focus*  
+  - Timestamp: **00:00 – Crimson Overture**  
+  - Track will be extracted later; link retained for attribution and recovery
