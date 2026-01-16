@@ -349,3 +349,359 @@ Whatever had pulled its attention—
 Was still out there.
 
 And she had a terrible feeling she was about to learn why.
+
+
+
+## Chapter 04.5  
+### Forced Down
+
+The tunnel ended in wreckage.
+
+Kade skidded to a halt just short of it, boots scraping against frost-slick concrete. The passage ahead had collapsed inward—support ribs twisted, ceiling plates pancaked down into a heap of shattered metal and stone. Whatever route had once existed beyond it was gone.
+
+Rennick slammed into the wall beside him, coughing hard. “That’s it,” he rasped. “Dead end.”
+
+Kade turned back the way they’d come.
+
+The cold was thicker there now. Not spreading—**waiting**. Frost crept along the floor in slow, deliberate lines, climbing the walls as if following an unseen contour. The pressure in his chest tightened again, heavier than before.
+
+“It’s herding us,” Kade said.
+
+Rennick didn’t argue.
+
+They moved fast, scrambling over the debris pile, hands tearing at jagged edges, forcing gaps where there were none. On the far side, the floor dipped sharply and then vanished altogether.
+
+A vertical shaft yawned open beneath the wreckage.
+
+Old. Wide. Lined with maintenance ladders and fractured platforms that spiraled down into darkness. Emergency lights flickered weakly along the walls, each one dimmer than the last as they descended.
+
+Rennick leaned over the edge, peering down. “I don’t see bottom.”
+
+“You don’t need to,” Kade said.
+
+Behind them, something shifted. The air pressed in, stealing warmth, stealing breath.
+
+The shaft exhaled upward—cold, stale, and deep.
+
+“No way back up,” Rennick muttered.
+
+Kade grabbed the ladder and started down.
+
+The metal groaned under his weight. Rust flaked away beneath his hands. Each rung vibrated faintly, carrying distant echoes from below—water dripping, something metallic shifting, the low hum of infrastructure that hadn’t fully died.
+
+Rennick followed, slower, injured arm tight to his side. Every few meters, another platform jutted out, some collapsed, some barely holding. They moved past them all.
+
+The pressure followed.
+
+Not rushing.
+
+Not closing.
+
+Just present.
+
+Halfway down, the ladder shuddered violently. A section above them tore free with a scream of metal, crashing past and vanishing into the dark below. Rennick cursed and froze.
+
+“Keep moving,” Kade snapped. “Don’t stop.”
+
+They reached the bottom hard—boots hitting old transit flooring littered with debris and pooled water. Kade barely had time to step clear before another chunk of ladder slammed down where he’d been seconds earlier.
+
+The shaft behind them was ruined now. Twisted. Unclimbable.
+
+Rennick bent forward, hands on his knees, sucking in air. “Tell me that wasn’t the only way out.”
+
+Kade didn’t answer.
+
+He was looking ahead.
+
+The space before them opened into something larger—an old-world junction, ceilings high enough to swallow sound, rails embedded in the floor, control housings gutted and dark. Faded markings clung to the walls, half-erased by time and neglect.
+
+This place had mattered once.
+
+The cold settled in around them, deeper now, heavier.
+
+They hadn’t escaped.
+
+They’d been delivered.
+
+
+
+## Chapter 04.6  
+### Lateral Descent
+
+Sera did not stay where she had fallen.
+
+She couldn’t.
+
+The silence pressed too hard, too complete, as if the tunnels were holding their breath around her. Every instinct screamed that remaining still was the same as waiting to be found—and she had already learned what waited in these places.
+
+She pushed herself up slowly.
+
+Pain answered immediately. Her shoulder burned. Her ribs protested with every breath. She checked her weapon by feel alone, fingers steady now despite the tremor still running through her legs.
+
+Alive.
+
+Alone.
+
+She listened.
+
+No pursuit. No movement. Just the low, distant hum of infrastructure buried too deep to ever fully die.
+
+Sera exhaled and forced her thoughts into order.
+
+*Find an exit.*  
+*Find elevation.*  
+*Find control.*
+
+She moved.
+
+The tunnels here were different—older, narrower, their design utilitarian rather than defensive. These weren’t routes meant for evacuation or patrol. They were arteries. Maintenance spines. Ways the city had once kept itself alive.
+
+She followed the signs the way she’d been trained to follow terrain:  
+stress fractures in the walls,  
+uneven frost patterns,  
+the subtle pull of colder air flowing downward.
+
+Down was wrong.
+
+Down was where pressure collected.
+
+Down was where things *went*.
+
+She took it anyway.
+
+A service corridor sloped beneath her boots, shallow at first, then steeper. The walls closed in, metal ribs exposed where panels had been torn away long ago. Faded symbols clung to the surfaces—warnings, access codes, directional arrows worn almost smooth.
+
+She reached a junction and paused.
+
+Three routes.
+
+One partially collapsed.  
+One sealed behind a blast door that had fused shut decades ago.  
+The third dropped away into a vertical maintenance access, its ladder bent but intact.
+
+Cold breathed up from it.
+
+Sera rested her forehead briefly against the wall, steadying herself.
+
+“Of course,” she murmured.
+
+She started down.
+
+The ladder groaned softly beneath her weight. Rust flaked off into the dark, the sound of it falling swallowed almost immediately. Emergency lights glimmered along the shaft, spaced too far apart, leaving long stretches of black between.
+
+Halfway down, she stopped.
+
+Not because she heard something.
+
+Because she felt it.
+
+A subtle shift—pressure redistributing, like water finding a lower point. The same sensation she’d felt earlier, before everything went wrong. Whatever was moving through the tunnels was no longer scattered.
+
+It was **converging**.
+
+Sera resumed her descent faster now, boots scraping the rungs as she dropped the last few meters and landed hard on old transit flooring. The space opened around her—wider, taller, scarred by collapse and time.
+
+Rails embedded in the floor.  
+Control housings ripped open.  
+Cables hanging like dead veins from the ceiling.
+
+An old-world hub.
+
+She recognized the layout instantly.
+
+Not from memory—but from instinct.
+
+Places like this were never isolated. They were intersections. Everything passed through them eventually.
+
+Sera raised her weapon and advanced into the space, breath shallow, senses sharp.
+
+Whatever she was moving toward—
+
+She was no longer alone in the hunt.
+
+
+
+
+## Chapter 04.7  
+### The Inner Room
+
+Asher woke to pain.
+
+Not the sharp kind—the kind that warned you something was wrong—but the deep, spreading ache that settled into bone and refused to move. His breath came shallow, each inhale dragging cold air into lungs that didn’t want it.
+
+For a moment, he didn’t remember where he was.
+
+Then the dark resolved.
+
+He lay on his side amid scattered debris, cheek pressed against cold metal dusted with frost. Above him, a jagged wound in the ceiling let in a faint, distant glow—far too high to reach. The air smelled old. Stale. Touched with rust and something faintly electrical.
+
+He pushed himself upright and immediately regretted it.
+
+Stars burst behind his eyes. His shoulder screamed. He braced against a nearby console—half-collapsed, its surface cracked and dead—and waited for the world to steady.
+
+“Great,” he muttered hoarsely.
+
+The room around him slowly came into focus.
+
+This wasn’t just another tunnel.
+
+The chamber was wide and circular, its walls lined with broken consoles and collapsed machinery arranged with purpose, not neglect. Old rails ran through the floor, converging toward a central platform now buried beneath rubble. Cables hung from the ceiling like stripped veins, some sparking faintly where power still whispered through them.
+
+Traces of human presence lingered everywhere.
+
+Footprints frozen in dust.  
+Discarded tools.  
+A faded warning placard bolted crookedly to the wall.
+
+This place had mattered once.
+
+Asher staggered forward, boots crunching over debris. Every step sent a fresh pulse of pain through his ribs, but staying still felt worse. He circled the chamber slowly, eyes tracking the remnants of a system long abandoned.
+
+Control vault.  
+Transit hub.  
+Something in between.
+
+He stopped near a partially collapsed rack where metal crates had spilled open. Most were empty—picked clean long ago—but one had broken differently, its contents scattered in a way that suggested haste rather than looting.
+
+Something caught his eye.
+
+Half-buried beneath a layer of dust and shattered plating lay an arm-mounted device—sleek despite the damage, its surface dulled by age but intact. A curved housing, segmented, with one section clearly missing as if torn away.
+
+Asher crouched carefully and lifted it.
+
+Cold.
+
+Not just to the touch—*unnaturally* so.
+
+He turned it over in his hands, brow furrowing. The device was heavier than it looked, denser, its inner components sealed behind layers that hadn’t degraded like the rest of the room. No lights. No response. Completely inert.
+
+“Guess you missed the apocalypse,” he said quietly.
+
+It didn’t belong here.
+
+Or maybe it did.
+
+He hesitated only a moment before sliding it over his forearm. The fit wasn’t perfect—loose where the missing segment should have been—but it settled against his skin with a soft mechanical click that made him pause.
+
+Nothing happened.
+
+No hum. No spark. No warning.
+
+Just dead weight.
+
+Asher exhaled and shook his head, a humorless huff escaping him. “Figures.”
+
+He unfastened it and tucked it into his jacket instead, securing it against his side. Salvage. Nothing more.
+
+The chamber groaned faintly around him, metal contracting as the cold deepened. Somewhere above, something shifted—distant, heavy, deliberate.
+
+Asher stiffened.
+
+Whatever had chased them through the tunnels hadn’t vanished.
+
+It had simply moved on.
+
+He swallowed, steadying himself against the console once more.
+
+“Kade,” he murmured under his breath. “Rennick.”
+
+No answer came.
+
+Asher straightened, wincing, and limped toward the far side of the chamber where a service corridor sloped upward, its lights flickering weakly.
+
+Staying here wasn’t an option.
+
+He moved on—unaware of how close the others were, or how little time remained before everything collided.
+
+
+
+## Chapter 04.8  
+### Convergence
+
+Asher heard movement before he saw anyone.
+
+Footsteps—measured, controlled, not the frantic scramble he’d been half-expecting. He slowed, breath shallow, hand tightening around the strap of his jacket where the salvaged device rested.
+
+“Hello?” he called, voice echoing thinly through the corridor.
+
+The answer came back sharper than he expected.
+
+“Don’t move.”
+
+A figure stepped into the edge of the chamber, weapon raised, posture rigid despite the damage evident in the way she favored one side. The light caught her face just long enough for Asher to see the strain there—blood at the corner of her mouth, eyes too alert for someone who’d been resting.
+
+They stared at each other for a heartbeat.
+
+“You’re not one of them,” she said finally.
+
+Asher swallowed. “Neither are you.”
+
+The weapon lowered a fraction.
+
+“I’m Lieutenant Sera Dain,” she said. “If you’re going to collapse, do it after you answer a question.”
+
+He managed a weak, crooked smile. “Asher. And I’m working on not collapsing.”
+
+That earned him a huff of breath that might have been a laugh. She stepped fully into the chamber now, scanning the space with practiced efficiency, eyes tracking the ruined consoles, the rails embedded in the floor.
+
+“This place?” she said. “It’s a hub.”
+
+“I figured,” Asher replied. “Didn’t plan on finding it.”
+
+“None of us ever do.”
+
+They stood there in the quiet for a moment longer—two survivors measuring damage, both visible and unseen.
+
+Then something clattered in the distance.
+
+Sera snapped her weapon up again. Asher turned instinctively toward the sound, heart stuttering.
+
+A shape emerged from the far access tunnel, limping slightly, one arm held tight against his side.
+
+“Asher!”
+
+Kade’s voice cracked on the name.
+
+Relief hit hard enough that Asher had to brace himself against the wall. “Kade,” he breathed.
+
+Rennick followed a step behind, face pale, jaw set, eyes already sweeping the room as if expecting the worst to lunge from the shadows. He stopped short when he saw Sera.
+
+“Friend?” Rennick asked quietly.
+
+“For now,” she said without looking away from Asher.
+
+Kade crossed the space in a few unsteady strides and grabbed Asher’s shoulder, then hesitated as if afraid to squeeze too hard. “You fell,” he said stupidly. “We—”
+
+“I know,” Asher cut in. “You did what you had to.”
+
+The words mattered more than either of them wanted to admit.
+
+They gathered instinctively into a loose circle—backs not quite touching, but close enough to share warmth. Four damaged figures in a room that had once been built to move thousands.
+
+For a breath, it almost felt safe.
+
+Then the temperature dropped.
+
+Not suddenly. Not violently.
+
+Just enough to notice.
+
+The emergency lights flickered, dimming in unison, their hum lowering until the chamber felt hollowed out. Sound carried differently now—too clean, too sharp, as if the air itself had thinned.
+
+Sera’s grip tightened on her weapon.
+
+Rennick swore under his breath.
+
+Kade looked up slowly, eyes tracking the shadows gathering along the ceiling supports.
+
+Asher felt it then—a pressure behind his eyes, a tug in his chest, the unmistakable sense of being *noticed*.
+
+Whatever had been hunting them hadn’t lost the trail.
+
+It had been waiting.
+
+And it was close.
+
+*End Chapter 04.*
+
+

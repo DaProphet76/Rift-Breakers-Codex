@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/The Sundering Chronicles/book_01_ignorance/full_story_cleaned.md",
+                "file": "story/The Sundering Chronicles/book_01_ignorance/Chapter_04.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "full_story_cleaned"
+              "title": "Chapter_04"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Chapter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +185,17 @@
   },
   "active": "1136efd283ff4cc0",
   "lastOpenFiles": [
+    "characters/Sera Dain/growth.md",
     "story/The Sundering Chronicles/book_01_ignorance/full_story_cleaned.md",
+    "story/The Sundering Chronicles/book_01_ignorance/Chapter_04.md",
+    "imgs/Places/babylonia/4d4b172e-e0b3-4e15-81f7-f416211b331c-md.jpeg",
+    "imgs/Places/babylonia/Unconfirmed 737647.crdownload",
+    "imgs/Places/babylonia/f2431d2a-8383-47dd-b837-37bc5aa575e1.png",
+    "imgs/Places/babylonia/Unconfirmed 641335.crdownload",
+    "imgs/Places/babylonia/7d6ec432-2295-4ac8-8cf2-12a30a913521.png",
+    "imgs/Places/babylonia/Unconfirmed 355556.crdownload",
+    "imgs/Places/03a3c820-b743-409d-9656-6b5346a40ecc-md.jpeg",
+    "imgs/Places/Unconfirmed 190315.crdownload",
     "story/The Sundering Chronicles/book_01_ignorance/Unconfirmed 194118.crdownload",
     "story/The Sundering Chronicles/book_01_ignorance/chapter_02.mdx",
     "story/The Sundering Chronicles/book_01_ignorance/Test.md",
@@ -203,20 +212,10 @@
     "imgs/IMG_0032.png",
     "imgs/IMG_0031.png",
     "imgs/IMG_0030.png",
-    "imgs/IMG_0029.png",
     "characters/asher_renn.md",
-    "story/The Sundering Chronicles/book_01_ignorance/Chapter_04.md",
     "story/The Sundering Chronicles/book_01_ignorance/Chap3.2.md",
     "notes/5E_CharacterSheet_Fillable.pdf",
-    "imgs/realm portals.png",
-    "imgs/characters/Sera Dain/Sera-Dain_headshot.jpeg",
-    "imgs/characters/Sera Dain/Sera Dain.png",
-    "imgs/characters/Sera Dain",
-    "imgs/characters/Kade",
-    "imgs/characters/Rennick",
-    "imgs/characters/Asher Renn",
     "characters/Sera Dain/profile.md",
-    "characters/Sera Dain/growth.md",
     "characters/Kade/profile.md",
     "characters/Kade/growth.md",
     "characters/Kade.md",
@@ -230,7 +229,6 @@
     "characters/kellan.md",
     "characters/Asher Renn/asher_renn.md",
     "templates/TEMPLATE_REFERENCE.md",
-    "characters/Sera Dain/sera_dain.md",
-    "characters/sera_dain.md"
+    "characters/Sera Dain/sera_dain.md"
   ]
 }
