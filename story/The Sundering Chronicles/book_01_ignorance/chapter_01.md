@@ -112,7 +112,7 @@ The boy raised his hands. He kept his eyes low.
 
 Behind him, a man muttered, “That scanner’s new.”
 
-“No it isn’t,” a woman replied. “You just noticed it.”
+“No it isn’t,” a woman replied. “You're just noticing it now.”
 
 The scanner chimed green.
 
