@@ -60,7 +60,7 @@ He pulled on his boots and stood.
 
 Outside, the street was already moving.
 
-People flowed past one another without greeting, shoulders tight, eyes forward. Couriers in patched jackets hurried messages toward the inner ring. Vendors called out half-hearted offers no one answered. Overhead, the shield lattice hummed faintly—a sound most people noticed only when it stopped.
+People flowed past one another without greeting, shoulders tight, eyes forward. Couriers in patched jackets hurried messages toward the inner rings. Vendors called out half-hearted offers no one answered. Overhead, the shield lattice hummed faintly—a sound most people noticed only when it stopped.
 
 Posters clung to the wall across the street.
 
