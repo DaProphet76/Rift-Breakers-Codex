@@ -148,15 +148,9 @@ Nearby, teenagers lingered under a sponsor screen.
 
 “Nothing yet.”
 
-“That’s how the story starts,” Kellan muttered. “They say it’s a ladder.”
+Kellan hesitated. “That’s… odd.”
 
-“And it isn’t?”
-
-“Ladders break.”
-
-The lift rose.
-
-By the end of shift, Den nodded once.
+The lift continued to rise.
 
 The return corridors were louder.
 
