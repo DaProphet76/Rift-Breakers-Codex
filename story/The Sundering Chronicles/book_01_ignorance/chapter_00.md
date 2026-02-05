@@ -23,53 +23,59 @@ A restrained oral-history account of the world’s fall, its imposed order, the 
 
 They tell us the world ended once.
 
-Not all at once.  
+Not all at once.
 But in fire and stone, when the sky fell and left a wound so deep the land never healed.
 
-There is still a place where nothing grows.  
+There is still a place where nothing grows.
 A vast scar in the realm where storms bend away and life forgets how to return.
 
-That was the cataclysm, the great fall.
+That was the cataclysm, the Great Fall.
 
-They say the survivors rebuilt.  
+They say the survivors rebuilt.
 That eight great families rose from the ruin and carried the world forward.
 
-Seven to rule.  
+Seven to rule.
 One destined to serve.
 
 They taught us this was order.
 
-After the wars came the rifts.  
+After the wars came the rifts.
 Cracks in the world that bled into our realm.
 
-So we retreated inward.  
+What bled through hunted us.
+Not armies of men, but invaders all the same.
+Demons. Beasts shaped by hunger. Voices wearing flesh.
+They crossed where the world was thin
+things that learned our scent and followed our screams.
+
+So we retreated inward.
 District by district. Ring by ring.
 
-The inner cities grew bright and guarded.  
+The inner cities grew bright and guarded.
 The outer rings learned to listen for screams and measure nights by survival.
 
-This was order.
+This was order, they said.
 
-Then came the dig.
+Then came the wonder.
 
-When they unearthed the artifact, the world shuddered. The Resonance came.  
-The Resonance rolled outward like an echo, awakening a memory carried in the blood.
+When they unearthed the artifact, the world shuddered. The Resonance erupted.
+It rolled outward like an echo, awakening a memory carried in the blood.
 
 The echo settled into us.
 
-Some awakened.  
-Without pattern. Without permission.  
+Some awakened.
+Without pattern. Without permission.
 Even people from streets like mine.
 
-Demons learned they could be beaten.  
-Driven back. Sent away.  
+That was when demons learned they could be beaten.
+Driven back. Sent away.
 But they would return.
 
-They call those people heroes now.  
+They call those people heroes now.
 Train them. Brand them.
 
-I was born after the Resonance.  
-In the outer districts.  
+I was born after the Resonance.
+In the outer districts.
 Where history teaches obedience and hope learns to hide.
 
 This is the world as we were taught it.
