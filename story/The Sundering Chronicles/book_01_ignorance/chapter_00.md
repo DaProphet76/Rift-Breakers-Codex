@@ -19,7 +19,7 @@ tags:
 ## Chapter Summary
 A restrained oral-history account of the world’s fall, its imposed order, the emergence of the Resonance, and the quiet injustice inherited by those born outside the inner rings.
 
-## Chapter
+## Chapter 00
 
 They tell us the world ended once.
 
