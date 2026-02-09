@@ -557,6 +557,46 @@ This place had mattered once.
 
 Asher staggered forward, boots crunching over debris. Every step sent a fresh pulse of pain through his ribs, but staying still felt worse. He circled the chamber slowly, eyes tracking the remnants of a system long abandoned.
 
+Control vault.  
+Transit hub.  
+Something in between.
+
+He stopped near a partially collapsed rack where metal crates had spilled open. Most were empty—picked clean long ago—but one had broken differently, its contents scattered in a way that suggested haste rather than looting.
+
+Something caught his eye.
+
+Half-buried beneath a layer of dust and shattered plating lay an arm-mounted device—sleek despite the damage, its surface dulled by age but intact. A curved housing, segmented, with one section clearly missing as if torn away.
+
+Asher crouched carefully and lifted it.
+
+Cold.
+
+Not just to the touch—*unnaturally* so.
+
+He turned it over in his hands, brow furrowing. The device was heavier than it looked, denser, its inner components sealed behind layers that hadn’t degraded like the rest of the room. No lights. No response. Completely inert.
+
+“Guess you missed the apocalypse,” he said quietly.
+
+It didn’t belong here.
+
+Or maybe it did.
+
+He hesitated only a moment before sliding it over his forearm. The fit wasn’t perfect—loose where the missing segment should have been—but it settled against his skin with a soft mechanical click that made him pause.
+
+Nothing happened.
+
+No hum. No spark. No warning.
+
+Just dead weight.
+
+Asher exhaled and shook his head, a humorless huff escaping him. “Figures.”
+
+He unfastened it and tucked it into his jacket instead, securing it against his side. Salvage. Nothing more.
+
+The chamber groaned faintly around him, metal contracting as the cold deepened. Somewhere above, something shifted—distant, heavy, deliberate.
+
+Asher stiffened.
+
 Whatever had chased them through the tunnels hadn’t vanished.
 
 It had simply moved on.
@@ -571,7 +611,7 @@ Asher straightened, wincing, and limped toward the far side of the chamber where
 
 Staying here wasn’t an option.
 
-He moved on, unaware of how close the others were, or how little time remained before everything collided.
+He moved on—unaware of how close the others were, or how little time remained before everything collided.
 
 
 
@@ -580,7 +620,7 @@ He moved on, unaware of how close the others were, or how little time remained b
 
 Asher heard movement before he saw anyone.
 
-Footsteps, measured, controlled, not the frantic scramble he’d been half-expecting. He slowed, breath shallow, hand tightening around the strap of his jacket where the salvaged device rested.
+Footsteps—measured, controlled, not the frantic scramble he’d been half-expecting. He slowed, breath shallow, hand tightening around the strap of his jacket where the salvaged device rested.
 
 “Hello?” he called, voice echoing thinly through the corridor.
 
@@ -588,7 +628,7 @@ The answer came back sharper than he expected.
 
 “Don’t move.”
 
-A figure stepped into the edge of the chamber, weapon raised, posture rigid despite the damage evident in the way she favored one side. The light caught her face just long enough for Asher to see the strain there, blood at the corner of her mouth, eyes too alert for someone who’d been resting.
+A figure stepped into the edge of the chamber, weapon raised, posture rigid despite the damage evident in the way she favored one side. The light caught her face just long enough for Asher to see the strain there—blood at the corner of her mouth, eyes too alert for someone who’d been resting.
 
 They stared at each other for a heartbeat.
 
@@ -610,21 +650,7 @@ That earned him a huff of breath that might have been a laugh. She stepped fully
 
 “None of us ever do.”
 
------------------------
-Insert Sera and Asher's additional context to meeting eachother.
-Their short journey together where they find the room that looks to hold maps, drawings of the old world and as they both investigate a sealed old-world chamber
-asher finds the relic.
-Finds an arm-mounted device: incomplete, unnaturally cold, dormant
-He pockets it as salvage.
-They leave the chamber, unaware of proximity to others.
-Shortly after Asher collapses in pain. where Sera begins to cautiously assist him.
-This should be a small moment that they share together about eachother. (nothing deep, but the beginning of them opening up to eachother)
-
--------------------------
-
-
-
-They stood there in the quiet for a moment longer. Two survivors measuring damage, both visible and unseen.
+They stood there in the quiet for a moment longer—two survivors measuring damage, both visible and unseen.
 
 Then something clattered in the distance.
 
