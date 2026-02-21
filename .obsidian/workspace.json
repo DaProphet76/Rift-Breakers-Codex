@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/The Sundering Chronicles/book_01_ignorance/Chapter_04.md",
+                "file": "templates/character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter_04"
+              "title": "character"
             }
           }
         ]
@@ -185,6 +185,20 @@
   },
   "active": "a2611f5c46c0facd",
   "lastOpenFiles": [
+    "templates/artifact.md",
+    "templates/character.md",
+    "templates/creature.md",
+    "templates/TEMPLATE_REFERENCE.md",
+    "templates/location.md",
+    "templates/realm.md",
+    "templates/timeline_entry.md",
+    "templates/01_base_frontmatter.md",
+    "templates/tenet.md",
+    "templates/trello.md",
+    "templates/scene_chapter.md",
+    "templates/system_magic_or_anomaly.md",
+    "templates/00_README.md",
+    "story/The Sundering Chronicles/book_01_ignorance/Chapter_04.md",
     "imgs/Intro vid/all_images/gemini-2_5-flash-image_Asher_renn_pose-0_8ecd3be6-4670-4378-a5fe-00b9b35a48c7.jpg",
     "imgs/Intro vid/all_images/gemini-2_5-flash-image_a_bird_flies_by_him_parallel_to_him-1_e11c2018-fead-4745-80fe-1d63e90c947c.jpg",
     "imgs/Intro vid/all_images/gemini-2_5-flash-image_a_bird_flies_by_him_parallel_to_him-2_98e18685-9ad8-4ab9-8dff-f77ae65f5de9.jpg",
@@ -195,7 +209,6 @@
     "imgs/Intro vid/all_images/gemini-2_5-flash-image_Asher_rennwriting_in_his_journal-0_b35e3afe-8c6e-440d-b34e-a31f6b107f10.jpg",
     "imgs/Intro vid/all_images/gemini-2_5-flash-image_Asher_rennwriting_in_his_journal-3_0ff1c71f-a726-400b-b7a6-97576ddc7287.jpg",
     "imgs/Intro vid/all_images/gemini-2_5-flash-image_Asher_renn_writing_in_his_journal-1_d7f5585c-1447-4d2f-a9a9-a8c8c1ee0af8.jpg",
-    "imgs/Intro vid/all_images/gemini-2_5-flash-image_Asher_renn_writing_in_his_journal-2_e54fb6c0-000b-478a-885e-69f4f50c00a7.jpg",
     "imgs/Intro vid/all_images/kling-3_0_writing_in_his_journal_after_looking_up_he_looks_back_down_into_his_journal_writ-0_96658d7a-902b-4bef-ab56-3a4dd15f9f05.mp4",
     "imgs/Intro vid/all_images",
     "imgs/Intro vid/all_images.zip",
@@ -204,7 +217,6 @@
     "imgs/New folder",
     "imgs/characters/Asher Renn/Unconfirmed 460392.crdownload",
     "story/The Sundering Chronicles/book_01_ignorance/chapter 4 insert.txt",
-    "story/The Sundering Chronicles/book_01_ignorance/Chapter_04.md",
     "story/The Sundering Chronicles/book_01_ignorance/old/Chapter_04.md",
     "story/The Sundering Chronicles/book_01_ignorance/old/Unconfirmed 21739.crdownload",
     "characters/Sera Dain/growth.md",
@@ -218,18 +230,6 @@
     "characters/asher_renn.md",
     "story/The Sundering Chronicles/book_01_ignorance/Chap3.2.md",
     "characters/Sera Dain/profile.md",
-    "characters/Kade/profile.md",
-    "characters/Kade/growth.md",
-    "characters/Kade.md",
-    "characters/Asher Renn/profile.md",
-    "characters/Asher Renn/growth.md",
-    "story/The Sundering Chronicles/book_01_ignorance/tenants.md",
-    "story/The Sundering Chronicles/book_01_ignorance/chapter_03.old.md",
-    "story/The Sundering Chronicles/book_01_ignorance/chapter_03.md",
-    "story/The Sundering Chronicles/book_01_ignorance/chapter_03-temp.md",
-    "characters/Sera Dain/profile - Copy.md",
-    "characters/kellan.md",
-    "characters/Asher Renn/asher_renn.md",
-    "templates/TEMPLATE_REFERENCE.md"
+    "characters/Kade/profile.md"
   ]
 }
