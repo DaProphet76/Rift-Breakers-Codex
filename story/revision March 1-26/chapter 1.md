@@ -38,7 +38,7 @@ Not for the next break. Not for the next surprise.
 
 Something always failed.
 
-He folded the pay-chit once, carefully, and slid it into his inner pocket. No need to look at it again. The number would not change.
+He folded the paynote once, carefully, and slid it into his inner pocket. No need to look at it again. The number would not change.
 
 He dressed without hurry. Worn brown jacket. Hooded layer beneath. Boots laced tight. Gloves tucked into belt. His pack waited by the door, straps repaired twice over, weight familiar against his shoulders.
 
@@ -62,7 +62,7 @@ Old Mara stood framed in the dim hall light, shawl wrapped tight though the air 
 
 “I know you worked.” Her eyes scanned him with clinical precision. “You smell like inner conduits and men who pretend exhaustion is a badge.”
 
-He gave a tired huff that might’ve been a laugh on a better day. “Evening to you, too.”
+He gave a tired huff that might’ve been a laugh on a better day. “Evening to you, too.” he said, with tiredness still found in his voice.
 
 Mara leaned forward slightly, lowering her voice though the corridor was empty.
 
