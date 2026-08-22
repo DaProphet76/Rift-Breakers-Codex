@@ -548,8 +548,6 @@ Three guards formed a line near the gatehouse.
 
 Bullets struck the pale armour with hard metallic blows—*pang, pang, pang*. Chips of ice and blackened metal broke away. One shot drove the creature half a step backward.
 
-It could be hurt.
-
 The guards did not have time to fire another full volley.
 
 The entity extended one hand.
@@ -568,7 +566,7 @@ The chill passed through her dress and settled against her skin like a piece of 
 
 “Darius,” she said. “We must move.”
 
-Rifles answered from the gatehouse—*crack-crack-crack!* One creature spun and fell. The others scattered so quickly that the next shots struck carriage walls with sharp *pings* and sent passengers diving for cover.
+Rifles answered from the gatehouse   *crack-crack-crack!*   One creature spun and fell. The others scattered so quickly that the next shots struck carriage walls with sharp *pings* and sent passengers diving for cover.
 
 “Hold your fire!” Inspector Vey shouted somewhere outside. “Seal the gate!”
 
@@ -648,7 +646,7 @@ He held a short rifle in both hands. His clean collar was red with blood—not h
 
 “The trench gate is locked.”
 
-“You have keys.”
+“You the have keys, don't you?”
 
 Vey looked toward the main gate. It was halfway closed. Beyond it lay open land, the eastern road, and the promise for which they had paid everything.
 
@@ -675,8 +673,6 @@ Then Vey pulled a ring of keys from his belt and shoved it at Darius.
 Darius took them. “Come with us.”
 
 “I have a gate to close.”
-
-“The gate is closing itself.”
 
 Vey looked toward the station, where his guards were firing among the crowd. “Gates do nothing by themselves.”
 
@@ -720,7 +716,7 @@ Mirella twisted away with Asher against her chest. She drove her damaged shears 
 
 “Mirella!” Lysandra cried.
 
-A pipe burst above them with a deafening *BANG*. White steam screamed from the break—*hissssss*—and swallowed the junction.
+A pipe burst above them with a deafening *BANG*. White steam screamed from the break. —*hissssss*—  and swallowed the junction.
 
 White steam exploded through the junction. Darius vanished. Mirella heard him shouting, but the words broke apart beneath the scream of metal. She backed into the left passage as the first Raker lunged blindly through the steam.
 
@@ -876,7 +872,7 @@ Mirella kissed his forehead.
 
 He stared at her, too young to understand sacrifice but old enough to recognize goodbye.
 
-“I love you,” she said.
+“I...love you, my handsome young boy.” she said.
 
 She placed him inside before either of them could become brave enough to refuse. Then Mirella closed the panel.
 
@@ -930,10 +926,10 @@ Mirella walked into the yard.
 
 The frost-wreathed entity followed.
 
-Asher pressed both hands against the metal panel. The pendant burned with unnatural cold beneath his fingers. Through the tear in the canvas, he watched his mother grow smaller in the red light.
+Asher pressed both hands against the metal panel. The pendant warmed with unnatural warmth beneath his fingers. Through the tear in the canvas, he watched his mother grow smaller in the red light.
 
 She did not run.
 
 She kept walking, leading the darkness away from him.
 
-“Mama?”
+“Mama?” he whispered in a faint cry.
