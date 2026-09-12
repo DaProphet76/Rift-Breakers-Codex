@@ -2,12 +2,14 @@
 title: "Asher Renn — Growth Log"
 type: "character_growth"
 status: "canon"
-version: "2.0"
-last_updated: "2026-09-10"
+version: "2.1"
+last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/asher-renn/profile.md
+  - atlas/characters/kade-dain/profile.md
+  - atlas/characters/renick/profile.md
   - assets/characters/asher-renn/asher-age-3-character-reference.png
 tags:
   - character-growth
@@ -26,7 +28,7 @@ Character growth is tracked when story events materially change Asher's skills, 
 - **Starting Posting / Location:** Outer Ring Districts
 - **Core Wound / Core Need:** Fear of visibility; need to learn that survival cannot always come from hiding
 - **Core Lie / Core Belief:** Staying unnoticed equals safety
-- **Primary Bonds:** Kade, Rennick
+- **Primary Bonds:** Kade, Renick
 - **Baseline Disposition:** Quiet, watchful, cautious, reluctant to lead
 
 ## Timeline Entries
@@ -49,6 +51,8 @@ Character growth is tracked when story events materially change Asher's skills, 
 
 ## References
 - `atlas/characters/asher-renn/profile.md`
+- `atlas/characters/kade-dain/profile.md`
+- `atlas/characters/renick/profile.md`
 - `assets/characters/asher-renn/asher-age-3-character-reference.png`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
