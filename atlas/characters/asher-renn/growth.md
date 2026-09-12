@@ -2,13 +2,13 @@
 title: "Asher Renn — Growth Log"
 type: "character_growth"
 status: "canon"
-version: "2.1"
+version: "2.2"
 last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/asher-renn/profile.md
-  - atlas/characters/kade-dain/profile.md
+  - atlas/characters/kade-vale/profile.md
   - atlas/characters/renick/profile.md
   - assets/characters/asher-renn/asher-age-3-character-reference.png
 tags:
@@ -51,7 +51,7 @@ Character growth is tracked when story events materially change Asher's skills, 
 
 ## References
 - `atlas/characters/asher-renn/profile.md`
-- `atlas/characters/kade-dain/profile.md`
+- `atlas/characters/kade-vale/profile.md`
 - `atlas/characters/renick/profile.md`
 - `assets/characters/asher-renn/asher-age-3-character-reference.png`
 - `project/canon-rules.md`
