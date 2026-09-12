@@ -2,13 +2,13 @@
 title: "Sera Dain — Growth Log"
 type: "character_growth"
 status: "provisional"
-version: "1.0"
+version: "1.1"
 last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/sera-dain/profile.md
-  - atlas/characters/cade-dain/profile.md
+  - atlas/characters/kade-dain/profile.md
   - atlas/characters/asher-renn/profile.md
 tags:
   - character-growth
@@ -29,7 +29,7 @@ tags:
 - **Starting Posting/Location:** Outer Ring — Dock Outpost
 - **Core Wound / Core Need:** Fear of losing people under her command; need to learn that responsibility cannot be reduced to control and procedure
 - **Core Lie / Core Belief:** "If I maintain discipline and control, I can keep everyone alive."
-- **Primary Bonds:** Cade Dain; Dock Outpost Detachment
+- **Primary Bonds:** Dock Outpost Detachment; hidden family bond to Kade Dain
 
 ## Timeline Entries
 
@@ -43,3 +43,11 @@ tags:
 - **Cost:** Increased personal responsibility for casualties, unit survival, and decisions made outside approved procedure.
 - **Mechanical Updates:** None confirmed.
 - **Next Trigger (planned):** A future command decision forces Sera to choose between institutional orders and protecting the people she considers her responsibility.
+
+### Planned Reveal — Dain Sibling Connection
+- **Story Event Summary:** Sera's relationship to Kade is revealed later, after she has first been established to the group as Lieutenant Dain.
+- **Growth / Change:** TBD by the approved reveal scene.
+- **Reveal(s):** Kade Dain and Sera Dain are brother and sister.
+- **Cost:** TBD.
+- **Mechanical Updates:** None.
+- **Next Trigger (planned):** Approved manuscript scene that reveals the connection.
