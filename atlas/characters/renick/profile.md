@@ -2,14 +2,14 @@
 title: "John Renick"
 type: "character"
 status: "provisional"
-version: "1.1"
+version: "1.2"
 last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/renick/growth.md
   - atlas/characters/asher-renn/profile.md
-  - atlas/characters/kade-dain/profile.md
+  - atlas/characters/kade-vale/profile.md
 tags:
   - character
   - scavenger
@@ -46,7 +46,7 @@ Renick has spent much of his life surviving in the Outer Ring and learned early 
 
 ### Relationships
 - **Asher Renn:** Mutual-survival bond; Renick recognizes Asher's steadiness and increasingly treats his survival as a personal responsibility
-- **Kade Dain:** Fellow scavenger and survivor; capable cooperation complicated by different instincts about risk and control
+- **Kade:** Fellow scavenger and survivor; capable cooperation complicated by different instincts about risk and control
 - **The Group:** Renick serves as a stabilizing presence and practical mentor when panic or inexperience threatens decision-making
 
 ### Arc
@@ -71,7 +71,7 @@ Renick has spent much of his life surviving in the Outer Ring and learned early 
   - Authority and sponsorship should never be trusted without proof
 - **Key relationships right now:**
   - Asher Renn
-  - Kade Dain
+  - Kade
 - **Active objectives:**
   - Get the surviving group out alive
   - Avoid detection and unnecessary confrontation
@@ -158,6 +158,6 @@ Renick has spent much of his life surviving in the Outer Ring and learned early 
 ## References
 - `atlas/characters/renick/growth.md`
 - `atlas/characters/asher-renn/profile.md`
-- `atlas/characters/kade-dain/profile.md`
+- `atlas/characters/kade-vale/profile.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
