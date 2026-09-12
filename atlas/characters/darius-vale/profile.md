@@ -2,15 +2,15 @@
 title: "Darius Vale"
 type: "character"
 status: "provisional"
-version: "1.0"
+version: "1.1"
 last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/darius-vale/growth.md
-  - atlas/characters/lysandra/profile.md
+  - atlas/characters/lysandra-vale/profile.md
   - atlas/characters/sera-dain/profile.md
-  - atlas/characters/kade-dain/profile.md
+  - atlas/characters/kade-vale/profile.md
   - atlas/characters/mirella-renn/profile.md
 tags:
   - character
@@ -40,16 +40,18 @@ The current manuscript does not yet establish a complete physical description fo
 - **Desires:** A safer life for his wife, daughter, unborn child, and the people travelling with them
 
 ### Background
-Darius is a millwright living in the Outer District of New Babylonia. By the opening of Book One, he has spent years saving and bargaining for the permits needed to leave the city. He secures passage not only for his own household but also for Mirella Renn and Asher, showing that his sense of responsibility extends beyond his immediate family.
+Darius Vale is a millwright living in the Outer District of New Babylonia with his wife Lysandra Vale and their daughter Sera Vale. By the opening of Book One, he has spent years saving and bargaining for the permits needed to leave the city. He secures passage not only for his own household but also for Mirella Renn and Asher.
+
+During the opening timeline, Lysandra is approximately six months pregnant with their son, Kade Vale. Sera is later separated from the family during the evacuation crisis, adopted within the city, and raised under the surname Dain.
 
 ### Motivations
 - **Short-term:** Get his family, Mirella, and Asher through the east gate and aboard Train Seven
 - **Long-term:** Establish a safer life beyond New Babylonia, away from the instability and predatory systems of the Outer District
 
 ### Relationships
-- **Lysandra:** Wife; their marriage is practical, affectionate, and marked by mutual trust and sharp humor
-- **Sera:** Daughter; he protects her while trying not to burden her with the full truth of the danger around them
-- **Kade Dain:** Son; hidden family canon. During the opening chapter, Kade has not yet been born and Lysandra is approximately six months pregnant
+- **Lysandra Vale:** Wife; their marriage is practical, affectionate, and marked by mutual trust and sharp humor
+- **Sera Vale / Sera Dain:** Daughter; born Sera Vale, later separated from the family and adopted under the surname Dain
+- **Kade Vale:** Son; hidden family canon. During Chapter 1, Kade has not yet been born and Lysandra is approximately six months pregnant with him
 - **Mirella Renn:** Longtime friend and trusted travelling companion; Darius has known her for nine years by the opening chapter
 - **Asher Renn:** Mirella's young son; included in Darius's escape plan and travel permits
 
@@ -60,8 +62,9 @@ Darius is a millwright living in the Outer District of New Babylonia. By the ope
 - **End state (planned):** TBD
 
 ### Secrets / Reveals
-- The family connection between Sera and Kade is not intended to be obvious to the reader when adult Sera first appears
-- The reason Sera later uses the surname Dain rather than Vale is not yet established in current canon
+- Sera's later identity as Sera Dain hides her birth identity as Sera Vale
+- Kade Vale is the unborn child during Chapter 1 and Sera's biological younger brother
+- The separation and adoption sequence is a controlled later reveal
 
 ---
 
@@ -75,8 +78,8 @@ Darius is a millwright living in the Outer District of New Babylonia. By the ope
   - Genuine papers and careful preparation may still be enough to get them through
   - His job is to keep the family moving even when he is afraid
 - **Key relationships right now:**
-  - Lysandra
-  - Sera
+  - Lysandra Vale
+  - Sera Vale
   - Mirella Renn
   - Asher Renn
 - **Active objectives:**
@@ -138,7 +141,7 @@ Darius is a millwright living in the Outer District of New Babylonia. By the ope
 - **Eyes:** TBD
 - **Skin:** TBD
 - **Hair:** TBD
-- **Allies & Organizations:** Family; Mirella Renn
+- **Allies & Organizations:** Vale family; Mirella Renn
 - **Symbol:** None confirmed
 - **Treasure:** Travel permits and family possessions
 - **Character Backstory:** Outer District millwright who spends years securing a route out of New Babylonia for his family and close companions
@@ -147,7 +150,7 @@ Darius is a millwright living in the Outer District of New Babylonia. By the ope
 ### Personality Blocks (Sheet Page 1)
 - **Personality Traits:** Dryly humorous, practical, protective
 - **Ideals:** Family safety and self-determination
-- **Bonds:** Lysandra, Sera, unborn Kade, Mirella, Asher
+- **Bonds:** Lysandra Vale, Sera Vale, unborn Kade Vale, Mirella, Asher
 - **Flaws:** Masks fear with confidence and jokes
 
 ---
@@ -158,15 +161,15 @@ Darius is a millwright living in the Outer District of New Babylonia. By the ope
 ---
 
 ## Canon Notes
-- **Confirmed:** Full name Darius Vale; husband of Lysandra; father of Sera; millwright; organizes the eastward escape; obtains travel permits for his household, Mirella Renn, and Asher Renn
-- **Hidden canon:** Kade Dain is his son and is the unborn child Lysandra carries during Chapter 1; this relationship must not be revealed early in the manuscript
-- **Open questions:** Exact age; visual design; final 5E build; reason the children later use the surname Dain
+- **Confirmed:** Full name Darius Vale; husband of Lysandra Vale; biological father of Sera Vale and Kade Vale; millwright; organizes the eastward escape; obtains travel permits for his household, Mirella Renn, and Asher Renn
+- **Hidden canon:** Kade Vale is the unborn child Lysandra carries during Chapter 1. Sera Vale is later separated from the family, adopted, and becomes Sera Dain.
+- **Open questions:** Exact age; visual design; final 5E build; precise separation/adoption sequence
 
 ## References
 - `manuscripts/book-01-ignorance/01-the-last-train-east.md`
 - `atlas/characters/darius-vale/growth.md`
-- `atlas/characters/lysandra/profile.md`
+- `atlas/characters/lysandra-vale/profile.md`
 - `atlas/characters/sera-dain/profile.md`
-- `atlas/characters/kade-dain/profile.md`
+- `atlas/characters/kade-vale/profile.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
