@@ -2,19 +2,22 @@
 title: "Sera Dain"
 type: "character"
 status: "provisional"
-version: "1.1"
+version: "1.2"
 last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/sera-dain/growth.md
-  - atlas/characters/kade-dain/profile.md
+  - atlas/characters/kade-vale/profile.md
+  - atlas/characters/darius-vale/profile.md
+  - atlas/characters/lysandra-vale/profile.md
   - atlas/characters/asher-renn/profile.md
 tags:
   - character
   - ring-security
   - outer-ring
   - dain-family
+  - vale-family
 ---
 
 # Sera Dain
@@ -22,8 +25,9 @@ tags:
 ## Character Profile (Story-Facing)
 
 ### Quick Identity
-- **Full Name:** Sera Dain
-- **Aliases:** TBD
+- **Current Name:** Sera Dain
+- **Birth Name:** Sera Vale
+- **Aliases:** Lieutenant Dain; callsign TBD
 - **Origin / District:** Outer Ring
 - **Age:** 26
 - **Role in Story:** Ring Security lieutenant assigned to the Outer Ring Dock Outpost
@@ -38,15 +42,21 @@ Sera is fit and disciplined, with a controlled military bearing. She has a warm 
 - **Desires:** Control that preserves lives; belonging without vulnerability
 
 ### Background
-Sera was orphaned early and entered military service at eighteen for structure and survival. She advanced through competence under pressure, and her identity became strongly tied to rank, responsibility, and the people under her command.
+Sera was born **Sera Vale**, daughter of Darius Vale and Lysandra Vale. During the evacuation crisis in the rewritten Chapter 1 timeline, she becomes separated from her family. She is later taken in and adopted by a person or household within the city and grows up under the surname **Dain**. The exact identity of the adoptive parent or family remains TBD.
 
-Her connection to Kade Dain is hidden from the viewpoint characters when she is first introduced. At that stage, she is encountered by rank, title, and surname as **Lieutenant Dain**, while Kade is known only by his first name.
+Her locket is the surviving physical tie to her birth family and early life. As she grows older, Sera enters military service at eighteen for structure and survival, advances through competence under pressure, and builds her adult identity around rank, duty, and the people under her command.
+
+When adult Sera first meets the group, she is encountered as **Lieutenant Dain**. Kade is known only as Kade, so neither the characters nor the reader are meant to immediately recognize that he is her biological younger brother.
 
 ### Motivations
 - **Short-term:** Maintain stability and minimize casualties at the Outer Ring Dock Outpost
 - **Long-term:** Prevent her unit from being treated as expendable leverage by command, politics, or institutional optics
 
 ### Relationships
+- **Darius Vale:** Biological father; connection belongs to hidden family canon until later revelation
+- **Lysandra Vale:** Biological mother; connection belongs to hidden family canon until later revelation
+- **Kade Vale:** Biological younger brother; sibling relationship is a later reveal
+- **Adoptive Parent / Family:** Identity TBD; source of the surname Dain
 - **Dock Outpost Detachment:** Primary professional loyalty and responsibility
 - **Chain of Command:** Respected but not fully trusted
 - **Dock Workers / Civilians:** Recognized informally through repeated duty in the area
@@ -58,16 +68,18 @@ Her connection to Kade Dain is hidden from the viewpoint characters when she is 
 - **End state (planned):** Chooses people over institution while retaining her operational edge
 
 ### Secrets / Reveals
-- **Hidden family connection:** Sera Dain is Kade Dain's sister
-- **Reveal control:** The sibling relationship is intentionally concealed early. Sera is initially known as Lieutenant Dain; Kade's surname is not revealed until later.
+- **Birth identity:** Sera Dain was born Sera Vale
+- **Hidden family connection:** She is Kade Vale's biological sister
+- **Adoption:** The surname Dain comes from the adoptive life she enters after being separated from her birth family
+- **Locket:** Her principal surviving physical link to her past and birth family
+- **Reveal control:** Early in the adult storyline, she is presented as Lieutenant Dain while Kade is identified only by his first name
 - **First institutional lie learned:** TBD
-- **Hidden emotional softness treated as weakness:** Provisional character tension; exact reveal point TBD
 
 ---
 
 ## Current State (Snapshot)
 
-- **Story Point:** Chapter 04 introduction sequence
+- **Story Point:** Adult introduction at the Dock Outpost
 - **Posting / Location:** Outer Ring — Dock Outpost
 - **Operational Role:** Ring Security lieutenant / patrol commander
 - **What they believe right now:**
@@ -125,7 +137,7 @@ Her connection to Kade Dain is hidden from the viewpoint characters when she is 
 - **Spellcasting:** N/A
 
 ### Gear & Wealth
-- **Equipment:** Patrol armor, service rifle, baton, combat knife, comms, restraints, flashlight, med-kit, rations
+- **Equipment:** Patrol armor, service rifle, baton, combat knife, comms, restraints, flashlight, med-kit, rations, personal locket
 - **Other Proficiencies & Languages:** Military doctrine, patrol procedures, field triage; Babylonia Standard + additional language TBD
 - **CP / SP / EP / GP / PP:** 0 / 0 / 0 / 0 / 0
 
@@ -138,14 +150,14 @@ Her connection to Kade Dain is hidden from the viewpoint characters when she is 
 - **Hair:** Dark brown / black
 - **Allies & Organizations:** Babylonia Ring Security — Outer Ring Dock Outpost
 - **Symbol:** Lieutenant insignia; exact unit designation TBD
-- **Treasure:** Orphan keepsake TBD
-- **Character Backstory:** Orphaned young; entered military service at eighteen and built her identity through duty, competence, and command responsibility
+- **Treasure:** Locket from her early life / birth family
+- **Character Backstory:** Born Sera Vale, separated from her birth family during the evacuation crisis, adopted within the city, raised as Sera Dain, and later entered military service
 - **Additional Features & Traits:** Command presence; tactical mindset; protective leadership style
 
 ### Personality Blocks (Sheet Page 1)
 - **Personality Traits:** Direct, disciplined, observant
 - **Ideals:** Order with limits
-- **Bonds:** Her dock detachment; hidden family bond to Kade Dain
+- **Bonds:** Her dock detachment; hidden biological bond to Kade Vale and the Vale family
 - **Flaws:** Attachment distrust; emotional withdrawal
 
 ---
@@ -156,14 +168,16 @@ Her connection to Kade Dain is hidden from the viewpoint characters when she is 
 ---
 
 ## Canon Notes
-- **Confirmed:** Age 26; orphaned early; Ring Security lieutenant; Outer Ring Dock Outpost posting; Kade Dain's sister; preferred adult visual identity established from the selected Sera reference image
-- **Revelation control:** Do not expose the sibling relationship or Kade's surname in the early introduction. Sera is first presented as Lieutenant Dain.
-- **Not revealed yet:** Callsign; unit designation; first institutional lie; exact orphan keepsake
-- **Open questions:** Exact early family timeline with Kade; final callsign; unit designation; permanent distinguishing marks, if any; approved chapter of sibling reveal
+- **Confirmed:** Current name Sera Dain; birth name Sera Vale; biological daughter of Darius Vale and Lysandra Vale; biological older sister of Kade Vale; separated from her family during the evacuation crisis; later adopted and raised under the surname Dain; locket connects her to her past; age 26; Ring Security lieutenant; Outer Ring Dock Outpost posting
+- **Revelation control:** Do not expose her Vale birth identity or sibling relationship to Kade during the early adult introduction. She is first presented as Lieutenant Dain.
+- **Not revealed yet:** Adoptive parent/family identity; callsign; unit designation; first institutional lie
+- **Open questions:** Exact separation sequence; age at adoption; identity/history of adoptive family; approved chapter of sibling reveal
 
 ## References
 - `atlas/characters/sera-dain/growth.md`
-- `atlas/characters/kade-dain/profile.md`
+- `atlas/characters/kade-vale/profile.md`
+- `atlas/characters/darius-vale/profile.md`
+- `atlas/characters/lysandra-vale/profile.md`
 - `atlas/characters/asher-renn/profile.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
