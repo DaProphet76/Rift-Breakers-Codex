@@ -2,13 +2,13 @@
 title: "Asher Renn"
 type: "character"
 status: "canon"
-version: "2.1"
+version: "2.2"
 last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/asher-renn/growth.md
-  - atlas/characters/kade-dain/profile.md
+  - atlas/characters/kade-vale/profile.md
   - atlas/characters/renick/profile.md
   - assets/characters/asher-renn/asher-age-3-character-reference.png
 tags:
@@ -154,7 +154,7 @@ Asher was raised in the Outer Ring under rotational labor, surveillance, scarcit
 ## References
 - `assets/characters/asher-renn/asher-age-3-character-reference.png`
 - `atlas/characters/asher-renn/growth.md`
-- `atlas/characters/kade-dain/profile.md`
+- `atlas/characters/kade-vale/profile.md`
 - `atlas/characters/renick/profile.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
