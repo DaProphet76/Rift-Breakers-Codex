@@ -2,13 +2,13 @@
 title: "Sera Dain"
 type: "character"
 status: "provisional"
-version: "1.0"
+version: "1.1"
 last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/sera-dain/growth.md
-  - atlas/characters/cade-dain/profile.md
+  - atlas/characters/kade-dain/profile.md
   - atlas/characters/asher-renn/profile.md
 tags:
   - character
@@ -38,14 +38,15 @@ Sera is fit and disciplined, with a controlled military bearing. She has a warm 
 - **Desires:** Control that preserves lives; belonging without vulnerability
 
 ### Background
-Sera was orphaned early and entered military service at eighteen for structure and survival. She advanced through competence under pressure, and her identity became strongly tied to rank, responsibility, and the people under her command. Unlike her brother Cade, who remained outside institutional authority as a scavenger, Sera built her life inside Ring Security.
+Sera was orphaned early and entered military service at eighteen for structure and survival. She advanced through competence under pressure, and her identity became strongly tied to rank, responsibility, and the people under her command.
+
+Her connection to Kade Dain is hidden from the viewpoint characters when she is first introduced. At that stage, she is encountered by rank, title, and surname as **Lieutenant Dain**, while Kade is known only by his first name.
 
 ### Motivations
 - **Short-term:** Maintain stability and minimize casualties at the Outer Ring Dock Outpost
 - **Long-term:** Prevent her unit from being treated as expendable leverage by command, politics, or institutional optics
 
 ### Relationships
-- **Cade Dain:** Brother; shared family history but sharply different relationships with authority and structure
 - **Dock Outpost Detachment:** Primary professional loyalty and responsibility
 - **Chain of Command:** Respected but not fully trusted
 - **Dock Workers / Civilians:** Recognized informally through repeated duty in the area
@@ -57,6 +58,8 @@ Sera was orphaned early and entered military service at eighteen for structure a
 - **End state (planned):** Chooses people over institution while retaining her operational edge
 
 ### Secrets / Reveals
+- **Hidden family connection:** Sera Dain is Kade Dain's sister
+- **Reveal control:** The sibling relationship is intentionally concealed early. Sera is initially known as Lieutenant Dain; Kade's surname is not revealed until later.
 - **First institutional lie learned:** TBD
 - **Hidden emotional softness treated as weakness:** Provisional character tension; exact reveal point TBD
 
@@ -72,7 +75,6 @@ Sera was orphaned early and entered military service at eighteen for structure a
   - Discipline keeps people alive
   - Institutions are flawed but still necessary
 - **Key relationships right now:**
-  - Cade Dain
   - Dock Outpost Detachment
   - Chain of Command
 - **Active objectives:**
@@ -143,7 +145,7 @@ Sera was orphaned early and entered military service at eighteen for structure a
 ### Personality Blocks (Sheet Page 1)
 - **Personality Traits:** Direct, disciplined, observant
 - **Ideals:** Order with limits
-- **Bonds:** Cade Dain; her dock detachment
+- **Bonds:** Her dock detachment; hidden family bond to Kade Dain
 - **Flaws:** Attachment distrust; emotional withdrawal
 
 ---
@@ -154,13 +156,14 @@ Sera was orphaned early and entered military service at eighteen for structure a
 ---
 
 ## Canon Notes
-- **Confirmed:** Age 26; orphaned early; Ring Security lieutenant; Outer Ring Dock Outpost posting; Cade Dain's sister; preferred adult visual identity established from the selected Sera reference image
+- **Confirmed:** Age 26; orphaned early; Ring Security lieutenant; Outer Ring Dock Outpost posting; Kade Dain's sister; preferred adult visual identity established from the selected Sera reference image
+- **Revelation control:** Do not expose the sibling relationship or Kade's surname in the early introduction. Sera is first presented as Lieutenant Dain.
 - **Not revealed yet:** Callsign; unit designation; first institutional lie; exact orphan keepsake
-- **Open questions:** Exact early family timeline with Cade; final callsign; unit designation; permanent distinguishing marks, if any
+- **Open questions:** Exact early family timeline with Kade; final callsign; unit designation; permanent distinguishing marks, if any; approved chapter of sibling reveal
 
 ## References
 - `atlas/characters/sera-dain/growth.md`
-- `atlas/characters/cade-dain/profile.md`
+- `atlas/characters/kade-dain/profile.md`
 - `atlas/characters/asher-renn/profile.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
