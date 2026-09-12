@@ -2,14 +2,14 @@
 title: "John Renick — Growth Log"
 type: "character_growth"
 status: "provisional"
-version: "1.1"
+version: "1.2"
 last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/renick/profile.md
   - atlas/characters/asher-renn/profile.md
-  - atlas/characters/kade-dain/profile.md
+  - atlas/characters/kade-vale/profile.md
 tags:
   - character-growth
   - milestones
@@ -29,7 +29,7 @@ tags:
 - **Starting Posting/Location:** Outer Ring scavenger lanes
 - **Core Wound / Core Need:** Years of survival have trained Renick to carry responsibility through experience and caution; he must learn where experience ends and shared trust begins
 - **Core Lie / Core Belief:** "If I have seen enough and prepared enough, I can keep the people beside me from repeating the same mistakes."
-- **Primary Bonds:** Asher Renn, Kade Dain, surviving scavenger group
+- **Primary Bonds:** Asher Renn, Kade, surviving scavenger group
 
 ## Timeline Entries
 
