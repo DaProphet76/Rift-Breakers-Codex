@@ -2,12 +2,14 @@
 title: "Asher Renn"
 type: "character"
 status: "canon"
-version: "2.0"
-last_updated: "2026-09-10"
+version: "2.1"
+last_updated: "2026-09-11"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/asher-renn/growth.md
+  - atlas/characters/kade-dain/profile.md
+  - atlas/characters/renick/profile.md
   - assets/characters/asher-renn/asher-age-3-character-reference.png
 tags:
   - character
@@ -46,7 +48,7 @@ Asher was raised in the Outer Ring under rotational labor, surveillance, scarcit
 
 ### Relationships
 - **Kade:** Acquaintance-turned-ally; helps draw Asher into scavenging activity and danger
-- **Rennick:** Pragmatic survivor; trust develops through shared pressure and mutual dependence
+- **Renick:** Pragmatic survivor; trust develops through shared pressure and mutual dependence
 
 ### Arc
 - **Start:** A passive observer trying to survive by staying invisible
@@ -70,7 +72,7 @@ Asher was raised in the Outer Ring under rotational labor, surveillance, scarcit
   - Forbidden places are dangerous for reasons he does not yet understand
 - **Key relationships right now:**
   - Kade
-  - Rennick
+  - Renick
 - **Active objectives:**
   - Stay alive
   - Avoid capture or unwanted attention
@@ -152,6 +154,8 @@ Asher was raised in the Outer Ring under rotational labor, surveillance, scarcit
 ## References
 - `assets/characters/asher-renn/asher-age-3-character-reference.png`
 - `atlas/characters/asher-renn/growth.md`
+- `atlas/characters/kade-dain/profile.md`
+- `atlas/characters/renick/profile.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
 - `LEGACY/characters/Asher Renn/profile.md` — migration source only, not current canon
