@@ -2,17 +2,19 @@
 title: "Pell"
 type: "character"
 status: "provisional"
-version: "1.0"
-last_updated: "2026-09-11"
+version: "1.1"
+last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/pell/growth.md
   - atlas/characters/darius-vale/profile.md
-  - atlas/characters/lysandra-vale/profile.md
   - atlas/characters/mirella-renn/profile.md
-  - atlas/characters/asher-renn/profile.md
-  - atlas/characters/sera-dain/profile.md
+  - atlas/vehicles/train-seven.md
+  - atlas/systems/new-babylonia-rail-network.md
+  - atlas/locations/eastgate-station.md
+  - atlas/locations/eastgate-maintenance-yard.md
+  - atlas/history/eastgate-train-seven-rift-event.md
 tags:
   - character
   - conductor
@@ -29,60 +31,57 @@ tags:
 - **Known As:** Conductor Pell
 - **Origin / District:** New Babylonia rail service; exact origin TBD
 - **Age:** Adult; exact age TBD
-- **Role in Story:** Train Seven conductor during the attempted eastward evacuation
+- **Role in Story:** Train Seven conductor during the attempted eastward resettlement and Eastgate evacuation
 
 ### Appearance
-Pell is described as a narrow man wearing a red conductor's cap. His expression gives the impression that passengers personally offend him. His full age, ethnicity, hair, eye colour, and other physical traits are not yet established.
+Pell is a narrow man wearing a red conductor's cap. His expression gives the impression that passengers personally offend him. His full age, ethnicity, hair, eye colour, and other physical traits are not yet established.
 
 ### Personality
 - **Strengths:** Dry, direct, practical, willing to act under pressure
 - **Flaws:** Irritable, curt, unsentimental
 - **Fears:** TBD
-- **Desires:** Keep Train Seven moving and passengers managed; deeper motives TBD
+- **Desires:** Keep rail operations moving and passengers managed; deeper motives TBD
 
 ### Background
-Pell serves as conductor of Train Seven, the train carrying Darius Vale, Lysandra Vale, Sera, Mirella Renn, Asher Renn, and other civilians eastward. He is initially presented through his dry treatment of passengers and strict attention to luggage and carriage assignments.
+Pell serves as conductor of Train Seven, the eastbound train assigned to Darius Vale's travelling party. He is initially presented through dry treatment of passengers, strict luggage limits, and carriage assignments.
 
-When the evacuation collapses into a Raker attack, Pell joins the physical defense of the survivors rather than abandoning the train. He uses a coal shovel against a Raker and is dragged from the engine step before Darius intervenes.
+When the Eastgate evacuation collapses into a Raker attack, Pell joins the defense rather than remaining only a transport official. Later in the maintenance yard he stands on the small evacuation engine step and strikes a pursuing Raker with a coal shovel. The creature pulls him from the step, and Darius intervenes with an iron-tipped walking stick while guards finish the Raker with rifle fire.
 
 ### Motivations
-- **Short-term:** Load and move Train Seven, enforce rail limits, and help evacuate survivors once the attack begins
+- **Short-term:** Board passengers, keep rail movement functioning, and help survivors escape once the attack begins
 - **Long-term:** TBD
 
 ### Relationships
-- **Darius Vale:** Passenger who presents the family's papers and later saves Pell from a Raker
-- **Mirella Renn:** Passenger who questions him about the journey to Eastmere
-- **Train Seven passengers:** Responsible for boarding, carriage assignment, and departure procedure
-- **Rail crew / guards:** Works alongside the crew during the evacuation crisis
+- **Darius Vale:** Passenger who presents the family's papers and later saves Pell from a Raker in the maintenance yard
+- **Mirella Renn:** Passenger who questions him about the route to Eastmere
+- **Train Seven passengers:** Under his immediate boarding/transport responsibility
+- **Rail crew / guards:** Works alongside them during the evacuation crisis
 
 ### Arc
-- **Start:** Curt rail conductor treating evacuation as a difficult but routine transport job
-- **Pressure:** Train Seven and the station are attacked by Rakers
-- **Change:** Becomes an active participant in the survivors' defense and escape
-- **End state (planned):** TBD
+- **Start:** Curt rail conductor treating resettlement as difficult but routine transport work
+- **Pressure:** Train Seven and Eastgate are attacked and the main route fails
+- **Change:** Becomes an active participant in the physical defense and emergency evacuation
+- **End state (current):** Survives the observed Raker encounter in the maintenance yard; final outcome after that point is unresolved
 
 ### Secrets / Reveals
-- Full name, personal history, family, and long-term fate remain TBD
+- Full name, personal history, family, and later fate remain TBD
 
 ---
 
 ## Current State (Snapshot)
 
-- **Story Point:** Chapter 1 — The Last Train East
-- **Posting / Location:** Train Seven / Eastgate rail platform and maintenance yard
-- **Operational Role:** Conductor / rail crew member / emergency defender
+- **Story Point:** Late Chapter 1 — Eastgate maintenance-yard evacuation
+- **Posting / Location:** Eastgate Maintenance Yard
+- **Operational Role:** Conductor / rail worker / emergency defender
 - **What he believes right now:**
-  - Passengers and baggage must be kept under control
-  - The railway runs on procedure until procedure stops mattering
-  - Once the attack begins, immediate survival takes priority
+  - Normal rail procedure has collapsed
+  - Immediate evacuation and survival now take priority
 - **Key relationships right now:**
-  - Train Seven crew
-  - passengers
-  - Darius Vale's travelling party
+  - Rail crew and guards
+  - Darius Vale's escaping party
 - **Active objectives:**
-  - Board passengers
-  - Keep the train moving
-  - Help survivors escape the Raker attack
+  - Help move survivors out of Eastgate
+  - Stay alive during the Raker incursion
 
 ---
 
@@ -127,7 +126,7 @@ When the evacuation collapses into a Raker attack, Pell joins the physical defen
 - **Spellcasting:** N/A
 
 ### Gear & Wealth
-- **Equipment:** Red conductor's cap, slate, rail-service clothing, access to train equipment
+- **Equipment:** Red conductor's cap, slate, rail-service clothing, access to train/rail equipment, coal shovel during emergency defense
 - **Other Proficiencies & Languages:** Rail procedure and train operations; languages TBD
 - **CP / SP / EP / GP / PP:** TBD
 
@@ -138,15 +137,15 @@ When the evacuation collapses into a Raker attack, Pell joins the physical defen
 - **Eyes:** TBD
 - **Skin:** TBD
 - **Hair:** TBD
-- **Allies & Organizations:** Train Seven rail crew
+- **Allies & Organizations:** Train Seven rail crew / New Babylonia rail network
 - **Symbol:** Red conductor's cap
 - **Treasure:** None established
-- **Character Backstory:** Railway conductor assigned to Train Seven during the Chapter 1 evacuation
-- **Additional Features & Traits:** Maintains composure through dry sarcasm and acts decisively when the station is attacked
+- **Character Backstory:** Railway conductor assigned to Train Seven during the Chapter 1 resettlement departure and Eastgate disaster
+- **Additional Features & Traits:** Maintains composure through dry sarcasm and acts physically when evacuation conditions collapse
 
 ### Personality Blocks (Sheet Page 1)
 - **Personality Traits:** Curt, dry, practical
-- **Ideals:** Function, order, getting the train moving
+- **Ideals:** Function, order, getting people and trains moving
 - **Bonds:** Rail crew and passengers under his immediate responsibility; exact personal bonds TBD
 - **Flaws:** Irritable and unsympathetic in routine interactions
 
@@ -158,12 +157,15 @@ When the evacuation collapses into a Raker attack, Pell joins the physical defen
 ---
 
 ## Canon Notes
-- **Confirmed:** Known as Pell / Conductor Pell; narrow build; red conductor's cap; conductor of Train Seven; assigns the Vale/Renn party to car nine; fights a Raker with a coal shovel during the attack
-- **Not revealed yet:** Full name; personal history; exact age; long-term fate
-- **Open questions:** Whether Pell survives beyond Chapter 1; whether he has future story relevance
+- **Confirmed:** Known as Pell / Conductor Pell; narrow build; red conductor's cap; conductor of Train Seven; assigns the Vale/Renn party to car nine; estimates the Eastmere journey at two days if clear/four if delayed; fights a Raker with a coal shovel; survives that immediate encounter after Darius and guards intervene.
+- **Not revealed yet:** Full name; personal history; exact age; long-term fate.
+- **Open questions:** Whether Pell survives the broader Eastgate event and whether he has later story relevance.
 
 ## References
 - `manuscripts/book-01-ignorance/01-the-last-train-east.md`
 - `atlas/characters/pell/growth.md`
+- `atlas/vehicles/train-seven.md`
+- `atlas/systems/new-babylonia-rail-network.md`
+- `atlas/locations/eastgate-maintenance-yard.md`
+- `atlas/history/eastgate-train-seven-rift-event.md`
 - `project/canon-rules.md`
-- `project/repository-guide.md`
