@@ -2,8 +2,8 @@
 title: "Darius Vale — Growth Log"
 type: "character_growth"
 status: "provisional"
-version: "1.1"
-last_updated: "2026-09-11"
+version: "1.2"
+last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
@@ -11,6 +11,9 @@ related_entries:
   - atlas/characters/lysandra-vale/profile.md
   - atlas/characters/sera-dain/profile.md
   - atlas/characters/kade-vale/profile.md
+  - atlas/families/vale-family.md
+  - atlas/history/eastgate-train-seven-rift-event.md
+  - atlas/locations/east-marker.md
 tags:
   - character-growth
   - milestones
@@ -34,18 +37,51 @@ tags:
 
 ## Timeline Entries
 
-### Chapter/Batch: Chapter 1 — The Last Train East
-- **Story Event Summary:** Darius leads his family and companions toward Eastgate Station after securing travel permits at great personal cost.
-- **Growth / Change:** His confidence in preparation is tested as the journey becomes increasingly dependent on forces outside his control.
-- **Reveal(s):** His loyalty extends beyond his immediate household; he has also secured permits for Mirella and Asher. Lysandra is approximately six months pregnant with Kade Vale.
-- **Cost:** Years of savings, Lysandra's silver comb, and an unresolved favour are spent to secure passage.
+### Chapter/Batch: Chapter 1 — Departure and Eastgate Transit
+- **Story Event Summary:**
+  - Darius leaves the Outer District with Lysandra, Sera, Mirella, and Asher after securing costly resettlement permits.
+  - Inspector Vey accepts the labour-exemption papers and directs them to Train Seven.
+- **Growth / Change:** Darius's confidence is still rooted in planning, legal papers, and controlled movement.
+- **Reveal(s):** He has spent eight years of savings, Lysandra's silver comb, and an unresolved favour to secure passage for both families.
+- **Cost:** Near-total financial sacrifice before the journey even begins.
+- **Mechanical Updates:** None.
+- **Next Trigger (planned):** Rift manifestation at Eastgate.
+
+### Chapter/Batch: Chapter 1 — Rift Attack and Service Trench
+- **Story Event Summary:**
+  - The rift opens, Rakers overrun the station, and Train Seven's route is blocked.
+  - Darius fights Rakers with an iron-tipped walking stick and follows Mirella's service-trench escape route.
+  - He abandons the travel chest after Lysandra reminds him that the people he loves matter more than their possessions.
+  - A steam-pipe collapse separates the Vale family from Mirella and Asher.
+- **Growth / Change:** Darius is forced to abandon the belief that careful preparation can control the outcome; people replace possessions and plans as the only remaining priority.
+- **Reveal(s):** He can act decisively in direct physical danger despite having no established military background.
+- **Cost:** Loss of the travel chest and most possessions; separation from Mirella and Asher; collapse of the planned escape route.
 - **Mechanical Updates:** None confirmed.
-- **Next Trigger (planned):** The train disaster and family separation force Darius to confront the limits of planning and control.
+- **Next Trigger (planned):** Reach the maintenance-yard evacuation route.
+
+### Chapter/Batch: Chapter 1 — Maintenance Yard Escape
+- **Story Event Summary:**
+  - Darius reaches the maintenance yard with Lysandra and Sera.
+  - He kills/helps kill a Raker attacking Pell and gets his family aboard the departing rail consist.
+  - Seeing Mirella at the signal-room window, he tells her they will wait at the East Marker.
+- **Growth / Change:** Darius accepts separation without accepting abandonment; he converts the failed plan into a new reunion objective.
+- **Reveal(s):** His protective bond extends beyond his household to Mirella and Asher.
+- **Cost:** He leaves Eastgate without knowing whether Mirella and Asher can follow.
+- **Mechanical Updates:** None.
+- **Next Trigger (planned):** Attempted reunion at the East Marker and the later Vale-family separation sequence.
 
 ### Planned Family Separation
-- **Story Event Summary:** Sera Vale becomes separated from her birth family during the evacuation crisis and is later adopted within the city as Sera Dain.
+- **Story Event Summary:** Sera Vale later becomes separated from her birth family during the continuing evacuation crisis and is eventually adopted within the city as Sera Dain.
 - **Growth / Change:** TBD by approved manuscript development.
 - **Reveal(s):** Sera Dain's original identity is Sera Vale; Kade Vale is her biological younger brother.
 - **Cost:** Long-term fracture of the Vale family.
 - **Mechanical Updates:** None.
 - **Next Trigger (planned):** Approved manuscript scene establishing the separation and adoption chain.
+
+## References
+- `manuscripts/book-01-ignorance/01-the-last-train-east.md`
+- `atlas/characters/darius-vale/profile.md`
+- `atlas/families/vale-family.md`
+- `atlas/history/eastgate-train-seven-rift-event.md`
+- `atlas/locations/east-marker.md`
+- `project/canon-rules.md`
