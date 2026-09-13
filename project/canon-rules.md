@@ -2,8 +2,8 @@
 title: "Canon Rules"
 type: "project_governance"
 status: "canon"
-version: "1.0"
-last_updated: "2026-08-17"
+version: "1.1"
+last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
@@ -60,6 +60,30 @@ Chat discussions, memory, drafts, and LEGACY material are not permanent canon un
 - Atlas entries contain world facts, not reader-facing prose.
 - Hidden truths must be clearly separated from what characters and societies believe.
 - Planned reveals must link to the continuity records controlling when they appear.
+- The Atlas is the project's encyclopedia and visual-reference source. Entries should preserve concrete information useful for writing, concept art, storyboarding, animation, environment design, prop design, creature design, and continuity.
+
+## Automatic chapter-to-atlas extraction rule
+
+Whenever a chapter is created, rewritten, approved, or materially revised, an Atlas extraction pass is required without waiting for a separate user request.
+
+The pass must identify and either create or update authoritative entries for Atlas-worthy entities introduced or materially changed in the chapter, including where applicable:
+
+- named characters and families
+- creatures, species, and unidentified recurring entities
+- locations, districts, landmarks, facilities, and important routes
+- factions, institutions, organizations, and governing bodies
+- artifacts, heirlooms, significant props, and recurring personal objects
+- vehicles and important machinery
+- technologies, civic systems, rules, procedures, and institutions
+- anomalies, rifts, powers, and supernatural systems
+- historical events and chapter events with lasting continuity importance
+- named terminology or concepts needed to understand the setting
+
+Minor incidental objects, unnamed background people, ordinary animals, and disposable scenery do not require separate entries unless they carry recurring story, continuity, or visual-design significance.
+
+When a chapter is still draft, extracted Atlas entries may remain `provisional`. Unknown details must be marked as unknown/TBD rather than invented.
+
+Each extraction pass must also check existing Atlas entries for new facts and contradictions. If an existing entity gains a clearer visual description, behavior, relationship, ability, location, or history in the chapter, its authoritative entry must be updated as part of the same pass.
 
 ## Legacy migration rule
 
