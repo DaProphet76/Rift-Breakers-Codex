@@ -2,14 +2,16 @@
 title: "Pell — Growth Log"
 type: "character_growth"
 status: "provisional"
-version: "1.0"
-last_updated: "2026-09-11"
+version: "1.1"
+last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/characters/pell/profile.md
   - atlas/characters/darius-vale/profile.md
-  - atlas/characters/lysandra-vale/profile.md
+  - atlas/vehicles/train-seven.md
+  - atlas/locations/eastgate-maintenance-yard.md
+  - atlas/history/eastgate-train-seven-rift-event.md
 tags:
   - character-growth
   - milestones
@@ -33,10 +35,29 @@ tags:
 
 ## Timeline Entries
 
-### Chapter/Batch: Chapter 1 — Train Seven and Maintenance Yard
-- **Story Event Summary:** Pell boards the Vale/Renn travelling party, assigns them to car nine, and later helps defend survivors when the Raker attack reaches the rail yard.
-- **Growth / Change:** His role changes from curt conductor to active defender when the railway ceases to function as a normal transport system.
-- **Reveal(s):** Pell is willing to physically fight for the people trying to escape, using a coal shovel against a Raker.
-- **Cost:** He is pulled from the engine step during the attack and survives that immediate encounter only after Darius intervenes.
+### Chapter/Batch: Chapter 1 — Train Seven Boarding
+- **Story Event Summary:** Pell processes the Vale/Renn travelling party, assigns them to car nine, enforces luggage limits, and gives Mirella the estimated journey time to Eastmere.
+- **Growth / Change:** None yet; Pell functions as a routine rail conductor with dry, unsentimental efficiency.
+- **Reveal(s):** The Eastmere route is expected to take two days if clear and four if delayed; rail failure is treated as a realistic possibility.
+- **Cost:** None established.
+- **Mechanical Updates:** None.
+- **Next Trigger (planned):** Eastgate rift attack.
+
+### Chapter/Batch: Chapter 1 — Maintenance Yard Defense
+- **Story Event Summary:**
+  - After Train Seven's route fails, Pell is present at the maintenance-yard evacuation.
+  - He strikes a pursuing Raker with a coal shovel from the engine step.
+  - The Raker drags him down; Darius attacks it with the iron-tipped walking stick and guards finish it with rifle fire.
+- **Growth / Change:** Pell shifts from transport procedure to direct physical defense of the evacuation route.
+- **Reveal(s):** He is willing to fight rather than simply abandon passengers once routine operations collapse.
+- **Cost:** Pulled from the engine step and placed in immediate mortal danger.
 - **Mechanical Updates:** None confirmed.
 - **Next Trigger (planned):** TBD if Pell survives or reappears after the Chapter 1 evacuation.
+
+## References
+- `manuscripts/book-01-ignorance/01-the-last-train-east.md`
+- `atlas/characters/pell/profile.md`
+- `atlas/vehicles/train-seven.md`
+- `atlas/locations/eastgate-maintenance-yard.md`
+- `atlas/history/eastgate-train-seven-rift-event.md`
+- `project/canon-rules.md`
