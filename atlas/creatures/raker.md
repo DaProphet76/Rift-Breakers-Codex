@@ -2,70 +2,91 @@
 title: "Raker"
 type: "creature"
 status: "provisional"
-version: "1.0"
-last_updated: "2026-09-12"
+version: "1.1"
+last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
-  - manuscripts/book-01-ignorance/01-the-last-train-east.md
+  - atlas/creatures/unidentified-frost-entity.md
+  - atlas/systems/rifts.md
+  - atlas/history/eastgate-train-seven-rift-event.md
+  - atlas/locations/eastgate-station.md
   - atlas/characters/inspector-vey/profile.md
   - atlas/characters/pell/profile.md
+  - manuscripts/book-01-ignorance/01-the-last-train-east.md
 tags:
   - creature
   - entity
   - raker
   - hostile
+  - visual-reference
 ---
 
 # Raker
 
 ## Summary
-Rakers are hostile creatures known well enough in New Babylonia that children recognize the name and fear the possibility of encountering them. In Chapter 1, multiple Rakers attack the Eastgate rail area and Train Seven, forcing guards, railway workers, and civilians into a violent evacuation.
+Rakers are fast, hostile creatures known well enough in New Babylonia that children recognize the name and fear them before seeing one. Chapter 1 provides a detailed current-canon visual when multiple Rakers cross the Eastgate rift and attack the station, Train Seven, guards, workers, and civilians.
 
 ## Classification
-- **Type:** Hostile creature; exact biological or supernatural classification not yet confirmed
-- **Realm of origin:** Unknown in current canon
+- **Type:** Hostile creature; exact biological/supernatural classification not yet confirmed
+- **Realm of origin:** Unknown; the Chapter 1 individuals cross through the Eastgate rift from the storm-dark environment visible beyond it
 
 ## Description
-The revised Chapter 1 establishes Rakers primarily through movement and combat rather than a complete anatomical description. They are capable of rapid, aggressive pursuit, can climb onto railway platforms and vehicles, and remain dangerous after sustaining firearm injuries. One wounded Raker is described scrambling away on three limbs, confirming a multi-limbed ground-moving body plan but not yet establishing a complete canonical anatomy.
-
-They emit a distinctive shriek when injured or threatened.
+- Roughly no taller than a grown human child
+- Grey hide stretched over a narrow frame
+- Moves primarily on all fours during attacks
+- Legs bend backward in a hound-like configuration
+- Long fingers end in hooked black nails/claws
+- Smooth head with two wet hollows where conventional eyes would be expected
+- Lipless mouth
+- Produces rapid clicking vocalizations while hunting/attacking: `kik-kik-kik`
+- Can shriek when injured
+- Fast enough to spring onto people, scale posts, climb carriage walls, reach train roofs, and pursue targets through rail infrastructure
 
 ## Intelligence and Communication
 - **Sentience:** Unknown
 - **Language:** None confirmed
-- **Observed communication:** Shriek / vocal distress response
-- **Hunting coordination:** Multiple Rakers attack the rail area during the same event, but organized pack intelligence has not yet been confirmed
+- **Observed vocalizations:** Rapid clicking; shrieking when injured
+- **Behavior:** Aggressively pursues nearby movement and fallen victims
+- **Group behavior:** Multiple individuals attack simultaneously, but Chapter 1 does not establish coordinated pack tactics
+- **Hierarchy response:** Rakers visibly fear and obey the unidentified frost-wreathed entity; they bow/flatten themselves, withdraw from its path, and halt when it raises a hand
 
 ## Abilities
-- Rapid pursuit and aggressive close-range attack behavior
-- Capable climbing and movement through rail-yard structures and platforms
-- High pain tolerance or resilience; firearm hits do not always immediately stop an individual
-- Dangerous enough that armed checkpoint guards respond with rifles and emergency containment measures
+- High-speed quadrupedal pursuit
+- Powerful jumping and climbing ability
+- Hooked claws capable of gripping structures, tearing clothing/flesh, and breaching windows/roof panels
+- Strong enough to drag adults and pull Pell from an engine step
+- Can continue attacking after some firearm wounds
+- Effective movement through platforms, train exteriors, baggage areas, service trenches, and maintenance spaces
 
 ## Weaknesses / Limitations
-- Rakers can be injured and killed by conventional physical force
-- Rifle fire can disable or kill them, although individual shots may not immediately stop one
-- Severe melee trauma to vulnerable areas such as the jaw, throat, or neck can incapacitate them
-- No confirmed elemental, magical, environmental, or behavioral weakness is established yet
+- Conventional firearms can wound and kill them
+- Single gunshots may not immediately stop an individual
+- Severe trauma to the jaw, throat, neck, or head can incapacitate or kill
+- Melee weapons used effectively in Chapter 1 include an iron-tipped walking stick, sewing shears, and a coal shovel
+- Rakers show fear/submission around the larger frost entity
+- No confirmed environmental weakness is established
 
 ## Ecology / Role in World
-Rakers are already part of the population's threat vocabulary before the Chapter 1 attack, suggesting they are not completely unknown phenomena. Their broader habitat, reproductive cycle, origin, feeding behavior, and relationship to rifts remain intentionally unresolved until supported by current canon.
+Rakers are already part of New Babylonia's threat vocabulary before the Chapter 1 attack. Children know the name, adults use them in warnings, and the population understands them as real dangers rather than mythical creatures.
 
-Darius tells Sera that Rakers do not like the sea and cannot swim. In context, this is presented as a father's attempt to reassure a frightened child and is **not currently treated as verified creature biology**.
+Their habitat, life cycle, feeding biology, reproduction, normal territorial range, and exact relationship to rifts are not yet established. The Eastgate event confirms at minimum that they can cross an active rift.
+
+Darius tells Sera that Rakers do not like the sea and cannot swim. In context, this is a father's reassurance to a frightened child and is **not currently treated as verified creature biology**.
 
 ## Encounters
-- **Chapter 1 — The Last Train East:** Rakers attack the Eastgate / Train Seven evacuation area. Inspector Vey fires on them, civilians and guards fight to escape, and Conductor Pell joins the defense with a coal shovel.
+- **Chapter 1 — Eastgate Train Seven Rift Event:** Multiple Rakers cross the rift, attack the station and train, enter the service trench and repair shed, and cause or contribute to widespread casualties and structural damage.
 
 ## Canon Notes
-- **Confirmed:** Rakers exist; they are feared by civilians; they are hostile; they can climb and pursue humans through built environments; they shriek; they can survive some firearm wounds; they can be killed through sufficient conventional physical trauma.
-- **Intentionally unknown:** Exact origin; anatomy; intelligence; reproductive behavior; ecology; relationship to rifts; whether they hunt individually or cooperatively.
+- **Confirmed:** Grey hide; child-height scale; narrow body; backward-bending hound-like legs; long fingers; hooked black nails; smooth eyeless-looking head with wet hollows; lipless mouth; clicking; shrieking; fast climbing/pursuit; resilience to some firearm hits; vulnerability to sufficient conventional trauma; fear/obedience toward the frost entity.
+- **Intentionally unknown:** Exact limb count beyond observed arms/legs; sensory mechanism; intelligence; ecology; reproduction; formal species origin; whether variants exist.
 - **Not confirmed as fact:** Darius's statement that Rakers dislike the sea or cannot swim.
-- **Open questions:** Final creature design; complete limb count; sensory organs; feeding behavior; territorial range; whether multiple Raker variants exist.
+- **Open questions:** How they detect prey without conventional visible eyes; whether clicking is communication, echolocation, agitation, or another behavior; how their hierarchy with greater entities functions.
 
 ## References
 - `manuscripts/book-01-ignorance/01-the-last-train-east.md`
-- `atlas/characters/inspector-vey/profile.md`
-- `atlas/characters/pell/profile.md`
+- `atlas/creatures/unidentified-frost-entity.md`
+- `atlas/systems/rifts.md`
+- `atlas/history/eastgate-train-seven-rift-event.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
