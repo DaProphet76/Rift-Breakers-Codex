@@ -2,15 +2,20 @@
 title: "Eastgate Station"
 type: "location"
 status: "provisional"
-version: "1.0"
+version: "1.1"
 last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/locations/eastern-wall.md
   - atlas/locations/new-babylonia.md
+  - atlas/locations/eastgate-service-trench.md
+  - atlas/locations/eastgate-signal-room.md
+  - atlas/locations/eastgate-maintenance-yard.md
+  - atlas/locations/eastgate-repair-shed.md
   - atlas/vehicles/train-seven.md
   - atlas/vehicles/eastgate-maintenance-carriage.md
+  - atlas/systems/new-babylonia-rail-network.md
   - atlas/history/eastgate-train-seven-rift-event.md
   - atlas/systems/rifts.md
   - manuscripts/book-01-ignorance/01-the-last-train-east.md
@@ -40,6 +45,8 @@ The station sits against the Eastern Wall and combines border control, rail tran
 - Signal room overlooking the maintenance yard
 - Repair shed containing narrow-line maintenance equipment
 - Outer track used by a small evacuation engine and freight/passenger wagons
+
+The service trench, signal room, maintenance yard, and repair shed now have separate Atlas entries because each becomes a distinct Chapter 1 visual/action set.
 
 ## Environment / Conditions
 - Coal smoke, steam, soot, damp wool, rain, and industrial noise
@@ -77,6 +84,10 @@ The station sits against the Eastern Wall and combines border control, rail tran
 ## References
 - `manuscripts/book-01-ignorance/01-the-last-train-east.md`
 - `atlas/locations/eastern-wall.md`
+- `atlas/locations/eastgate-service-trench.md`
+- `atlas/locations/eastgate-signal-room.md`
+- `atlas/locations/eastgate-maintenance-yard.md`
+- `atlas/locations/eastgate-repair-shed.md`
 - `atlas/vehicles/train-seven.md`
 - `atlas/history/eastgate-train-seven-rift-event.md`
 - `project/canon-rules.md`
