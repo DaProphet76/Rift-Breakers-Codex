@@ -2,18 +2,22 @@
 title: "Eastgate Station"
 type: "location"
 status: "provisional"
-version: "1.1"
+version: "1.2"
 last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/locations/eastern-wall.md
   - atlas/locations/new-babylonia.md
+  - atlas/locations/eastgate-checkpoint.md
+  - atlas/locations/eastgate-freight-platform.md
+  - atlas/locations/eastgate-bell-tower.md
   - atlas/locations/eastgate-service-trench.md
   - atlas/locations/eastgate-signal-room.md
   - atlas/locations/eastgate-maintenance-yard.md
   - atlas/locations/eastgate-repair-shed.md
   - atlas/vehicles/train-seven.md
+  - atlas/vehicles/eastgate-evacuation-rail-consist.md
   - atlas/vehicles/eastgate-maintenance-carriage.md
   - atlas/systems/new-babylonia-rail-network.md
   - atlas/history/eastgate-train-seven-rift-event.md
@@ -35,18 +39,18 @@ Eastgate Station is the eastern rail and checkpoint complex where the Vale and R
 The station sits against the Eastern Wall and combines border control, rail transport, freight handling, and maintenance infrastructure. The passenger route passes through a checkpoint and inner yard to a freight platform where Train Seven waits on the last platform.
 
 ### Major visible areas
-- Iron-arched checkpoint lanes used to inspect papers and luggage
+- Eastgate Checkpoint with iron-arched inspection lanes
 - Inner yard beyond the checkpoint
-- Freight platform and multiple rail tracks
-- Bell tower near the platform
+- Eastgate Freight Platform and multiple rail tracks
+- Eastgate Bell Tower near the platform
 - Gatehouse with armed guards
-- Eastern maintenance yard beyond/through the wall
-- Service trench beneath the platform and wall
-- Signal room overlooking the maintenance yard
-- Repair shed containing narrow-line maintenance equipment
-- Outer track used by a small evacuation engine and freight/passenger wagons
+- Eastgate Maintenance Yard beyond/through the wall
+- Eastgate Service Trench beneath the platform and wall
+- Eastgate Signal Room overlooking the maintenance yard
+- Eastgate Repair Shed containing narrow-line maintenance equipment
+- Outer track used by the evacuation rail consist
 
-The service trench, signal room, maintenance yard, and repair shed now have separate Atlas entries because each becomes a distinct Chapter 1 visual/action set.
+The visually distinct action sets now have their own Atlas entries so each can be referenced independently for storyboarding, environment design, and animation.
 
 ## Environment / Conditions
 - Coal smoke, steam, soot, damp wool, rain, and industrial noise
@@ -72,22 +76,25 @@ The service trench, signal room, maintenance yard, and repair shed now have sepa
 ## Narrative Use
 - Major Chapter 1 action location
 - Separates the domestic opening from the supernatural crisis
-- Provides a layered environment for animation: public platform, defensive wall, subterranean trench, signal room, maintenance yard, and repair shed
+- Provides a layered environment for animation: checkpoint, public platform, defensive wall, subterranean trench, signal room, maintenance yard, and repair shed
 - Establishes how civilian infrastructure converts into emergency containment space under attack
 
 ## Canon Notes
-- **Confirmed:** Freight platform; Train Seven; checkpoint; inner yard; blue lamps; bell tower; gatehouse; service trench; signal room; maintenance yard; repair shed; outer track.
+- **Confirmed:** Checkpoint; freight platform; Train Seven; inner yard; blue lamps; bell tower; gatehouse; service trench; signal room; maintenance yard; repair shed; outer track.
 - **Confirmed damage during Chapter 1:** Rail severed by the rift crack; bell tower collapses across forward track; windows and cars are damaged; frost spreads through the yard; station evacuation fails as planned.
 - **Intentionally unknown:** Full station map, platform count, original construction date, exact rail authority, and final post-attack condition.
 - **Open questions:** Whether the station remains operational after the event and whether the service trench connects to a broader subterranean network.
 
 ## References
 - `manuscripts/book-01-ignorance/01-the-last-train-east.md`
-- `atlas/locations/eastern-wall.md`
+- `atlas/locations/eastgate-checkpoint.md`
+- `atlas/locations/eastgate-freight-platform.md`
+- `atlas/locations/eastgate-bell-tower.md`
 - `atlas/locations/eastgate-service-trench.md`
 - `atlas/locations/eastgate-signal-room.md`
 - `atlas/locations/eastgate-maintenance-yard.md`
 - `atlas/locations/eastgate-repair-shed.md`
 - `atlas/vehicles/train-seven.md`
+- `atlas/vehicles/eastgate-evacuation-rail-consist.md`
 - `atlas/history/eastgate-train-seven-rift-event.md`
 - `project/canon-rules.md`
