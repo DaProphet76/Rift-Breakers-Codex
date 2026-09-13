@@ -2,8 +2,8 @@
 title: "Sera Dain"
 type: "character"
 status: "provisional"
-version: "1.2"
-last_updated: "2026-09-11"
+version: "1.3"
+last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
@@ -12,6 +12,9 @@ related_entries:
   - atlas/characters/darius-vale/profile.md
   - atlas/characters/lysandra-vale/profile.md
   - atlas/characters/asher-renn/profile.md
+  - atlas/families/vale-family.md
+  - atlas/artifacts/sera-locket.md
+  - atlas/history/eastgate-train-seven-rift-event.md
 tags:
   - character
   - ring-security
@@ -35,6 +38,8 @@ tags:
 ### Appearance
 Sera is fit and disciplined, with a controlled military bearing. She has a warm tan-brown complexion, brown eyes, and dark brown-to-black hair normally kept controlled and practical while on duty. Her patrol armor, load-bearing rig, communications gear, lieutenant insignia, and unit equipment are maintained to regulation standards. Her preferred visual depiction is the established dark-haired adult reference selected for the project; no permanent facial scar or distinguishing mark is currently confirmed.
 
+Her Chapter 1 childhood appearance is tracked in the growth log rather than the adult snapshot. The manuscript establishes a blue scarf and mismatched boot-tying during the eastbound departure.
+
 ### Personality
 - **Strengths:** Decisive, disciplined, protective of subordinates, highly situationally aware
 - **Flaws:** Attachment-based distrust, emotionally reactive off duty, difficulty sustaining close relationships
@@ -42,7 +47,9 @@ Sera is fit and disciplined, with a controlled military bearing. She has a warm 
 - **Desires:** Control that preserves lives; belonging without vulnerability
 
 ### Background
-Sera was born **Sera Vale**, daughter of Darius Vale and Lysandra Vale. During the evacuation crisis in the rewritten Chapter 1 timeline, she becomes separated from her family. She is later taken in and adopted by a person or household within the city and grows up under the surname **Dain**. The exact identity of the adoptive parent or family remains TBD.
+Sera was born **Sera Vale**, daughter of Darius Vale and Lysandra Vale. She survives the Eastgate rift disaster with her parents during the current Chapter 1 manuscript, while Mirella Renn and Asher Renn are separated from them.
+
+During the continuing evacuation crisis after the current Chapter 1 endpoint, Sera is later separated from her own birth family. She is eventually taken in and adopted by a person or household within the city and grows up under the surname **Dain**. The exact identity of the adoptive parent or family remains TBD.
 
 Her locket is the surviving physical tie to her birth family and early life. As she grows older, Sera enters military service at eighteen for structure and survival, advances through competence under pressure, and builds her adult identity around rank, duty, and the people under her command.
 
@@ -151,7 +158,7 @@ When adult Sera first meets the group, she is encountered as **Lieutenant Dain**
 - **Allies & Organizations:** Babylonia Ring Security — Outer Ring Dock Outpost
 - **Symbol:** Lieutenant insignia; exact unit designation TBD
 - **Treasure:** Locket from her early life / birth family
-- **Character Backstory:** Born Sera Vale, separated from her birth family during the evacuation crisis, adopted within the city, raised as Sera Dain, and later entered military service
+- **Character Backstory:** Born Sera Vale, survives the Eastgate rift disaster, is later separated from her birth family during the continuing evacuation crisis, adopted within the city, raised as Sera Dain, and eventually enters military service
 - **Additional Features & Traits:** Command presence; tactical mindset; protective leadership style
 
 ### Personality Blocks (Sheet Page 1)
@@ -168,16 +175,19 @@ When adult Sera first meets the group, she is encountered as **Lieutenant Dain**
 ---
 
 ## Canon Notes
-- **Confirmed:** Current name Sera Dain; birth name Sera Vale; biological daughter of Darius Vale and Lysandra Vale; biological older sister of Kade Vale; separated from her family during the evacuation crisis; later adopted and raised under the surname Dain; locket connects her to her past; age 26; Ring Security lieutenant; Outer Ring Dock Outpost posting
+- **Confirmed:** Current name Sera Dain; birth name Sera Vale; biological daughter of Darius Vale and Lysandra Vale; biological older sister of Kade Vale; child survivor of the Eastgate rift event; later separated from her birth family during the continuing evacuation crisis; adopted and raised under the surname Dain; locket connects her to her past; age 26; Ring Security lieutenant; Outer Ring Dock Outpost posting.
 - **Revelation control:** Do not expose her Vale birth identity or sibling relationship to Kade during the early adult introduction. She is first presented as Lieutenant Dain.
-- **Not revealed yet:** Adoptive parent/family identity; callsign; unit designation; first institutional lie
-- **Open questions:** Exact separation sequence; age at adoption; identity/history of adoptive family; approved chapter of sibling reveal
+- **Not revealed yet:** Adoptive parent/family identity; callsign; unit designation; first institutional lie.
+- **Open questions:** Exact separation sequence; age at adoption; identity/history of adoptive family; approved chapter of sibling reveal.
 
 ## References
+- `manuscripts/book-01-ignorance/01-the-last-train-east.md`
 - `atlas/characters/sera-dain/growth.md`
 - `atlas/characters/kade-vale/profile.md`
 - `atlas/characters/darius-vale/profile.md`
 - `atlas/characters/lysandra-vale/profile.md`
-- `atlas/characters/asher-renn/profile.md`
+- `atlas/families/vale-family.md`
+- `atlas/artifacts/sera-locket.md`
+- `atlas/history/eastgate-train-seven-rift-event.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
