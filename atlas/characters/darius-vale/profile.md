@@ -2,8 +2,8 @@
 title: "Darius Vale"
 type: "character"
 status: "provisional"
-version: "1.1"
-last_updated: "2026-09-11"
+version: "1.2"
+last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
@@ -12,6 +12,12 @@ related_entries:
   - atlas/characters/sera-dain/profile.md
   - atlas/characters/kade-vale/profile.md
   - atlas/characters/mirella-renn/profile.md
+  - atlas/families/vale-family.md
+  - atlas/locations/vale-home.md
+  - atlas/locations/eastgate-station.md
+  - atlas/locations/east-marker.md
+  - atlas/systems/resettlement-travel-permits.md
+  - atlas/history/eastgate-train-seven-rift-event.md
 tags:
   - character
   - parent
@@ -28,64 +34,64 @@ tags:
 - **Aliases:** Darius
 - **Origin / District:** New Babylonia, Outer District
 - **Age:** Adult; exact age TBD
-- **Role in Story:** Father, husband, millwright, and the man who organizes his family's attempted escape east
+- **Role in Story:** Father, husband, millwright, and organizer of his family's attempted escape east
 
 ### Appearance
-The current manuscript does not yet establish a complete physical description for Darius. His visual design remains open pending an approved character reference. He should read as a working Outer Ring tradesman rather than a soldier: practical clothing, travel-worn layers, and the physical bearing of someone accustomed to manual work.
+The current manuscript does not yet establish a complete physical description for Darius. His visual design remains open pending an approved character reference. He should read as a working Outer District tradesman rather than a soldier: practical clothing, travel-worn layers, and the physical bearing of someone accustomed to manual work.
 
 ### Personality
-- **Strengths:** Practical, protective, dryly humorous, persistent, resourceful
-- **Flaws:** Uses humor to soften fear; can project confidence when the situation is less secure than he admits
-- **Fears:** Failing to move his family beyond danger; being trapped by the city before they can leave
+- **Strengths:** Practical, protective, dryly humorous, persistent, resourceful, decisive under pressure
+- **Flaws:** Uses humor to soften fear; can project confidence when circumstances are less secure than he admits
+- **Fears:** Failing to move his family beyond danger; being unable to protect them once his plans collapse
 - **Desires:** A safer life for his wife, daughter, unborn child, and the people travelling with them
 
 ### Background
-Darius Vale is a millwright living in the Outer District of New Babylonia with his wife Lysandra Vale and their daughter Sera Vale. By the opening of Book One, he has spent years saving and bargaining for the permits needed to leave the city. He secures passage not only for his own household but also for Mirella Renn and Asher.
+Darius Vale is a millwright living in the Outer District of New Babylonia with his wife Lysandra Vale and their daughter Sera Vale. By the opening of Book One, he has spent years saving and bargaining for permits needed to leave the city. He secures passage not only for his own household but also for Mirella Renn and Asher.
 
-During the opening timeline, Lysandra is approximately six months pregnant with their son, Kade Vale. Sera is later separated from the family during the evacuation crisis, adopted within the city, and raised under the surname Dain.
+During the opening timeline, Lysandra is approximately six months pregnant with their son, Kade Vale. Sera is later separated from the family during the broader evacuation crisis, adopted within the city, and raised under the surname Dain.
 
 ### Motivations
-- **Short-term:** Get his family, Mirella, and Asher through the east gate and aboard Train Seven
-- **Long-term:** Establish a safer life beyond New Babylonia, away from the instability and predatory systems of the Outer District
+- **Short-term:** Get his family, Mirella, and Asher through Eastgate and away from the rift attack
+- **Long-term:** Establish a safer life beyond New Babylonia, away from the instability and unequal protections of the Outer District
 
 ### Relationships
-- **Lysandra Vale:** Wife; their marriage is practical, affectionate, and marked by mutual trust and sharp humor
-- **Sera Vale / Sera Dain:** Daughter; born Sera Vale, later separated from the family and adopted under the surname Dain
-- **Kade Vale:** Son; hidden family canon. During Chapter 1, Kade has not yet been born and Lysandra is approximately six months pregnant with him
-- **Mirella Renn:** Longtime friend and trusted travelling companion; Darius has known her for nine years by the opening chapter
-- **Asher Renn:** Mirella's young son; included in Darius's escape plan and travel permits
+- **Lysandra Vale:** Wife; practical, affectionate marriage built on trust and sharp humor
+- **Sera Vale / Sera Dain:** Daughter; still a child during Chapter 1
+- **Kade Vale:** Unborn son during Chapter 1
+- **Mirella Renn:** Longtime friend and travelling companion; Darius has known her for nine years
+- **Asher Renn:** Mirella's young son; included in Darius's escape plan and permits
 
 ### Arc
-- **Start:** A working father who believes preparation, permits, and one difficult journey may be enough to save his family
-- **Pressure:** The escape route collapses under events no permit or plan can control
-- **Change:** TBD from approved manuscript development
-- **End state (planned):** TBD
+- **Start:** Believes careful planning, legal documents, and sacrifice can carry his family to safety
+- **Pressure:** The Eastgate rift attack destroys the planned route and forces increasingly improvised survival decisions
+- **Change:** Gives up possessions, abandons his travel chest, and accepts that people matter more than the plan he built around them
+- **End state (current):** Escaping the Eastgate maintenance yard with Lysandra and Sera while separated from Mirella and Asher
 
 ### Secrets / Reveals
 - Sera's later identity as Sera Dain hides her birth identity as Sera Vale
 - Kade Vale is the unborn child during Chapter 1 and Sera's biological younger brother
-- The separation and adoption sequence is a controlled later reveal
+- The later separation/adoption sequence remains controlled future-reveal material
 
 ---
 
 ## Current State (Snapshot)
 
-- **Story Point:** Chapter 1 — The Last Train East
-- **Posting / Location:** Outer District, New Babylonia; travelling toward Eastgate Station
-- **Operational Role:** Civilian tradesman / family provider / journey organizer
+- **Story Point:** End of Chapter 1 — The Last Train East
+- **Posting / Location:** Departing Eastgate maintenance yard aboard the small evacuation rail consist
+- **Operational Role:** Civilian father / protector / escape organizer
 - **What he believes right now:**
-  - Leaving is dangerous, but staying is worse
-  - Genuine papers and careful preparation may still be enough to get them through
-  - His job is to keep the family moving even when he is afraid
+  - His original escape plan has failed
+  - Mirella and Asher are still behind at Eastgate
+  - The East Marker is the best available reunion point
 - **Key relationships right now:**
   - Lysandra Vale
   - Sera Vale
-  - Mirella Renn
-  - Asher Renn
+  - unborn Kade Vale
+  - Mirella Renn and Asher Renn, now separated from him
 - **Active objectives:**
-  - Reach Train Seven
-  - Get the family through the east gate before it seals
-  - Keep fear from stopping the journey
+  - Keep Lysandra and Sera alive
+  - Reach the East Marker
+  - Reunite with Mirella and Asher if possible
 
 ---
 
@@ -126,11 +132,11 @@ During the opening timeline, Lysandra is approximately six months pregnant with 
 - **Passive Wisdom (Perception):** TBD
 
 ### Attacks & Spellcasting
-- **Attacks:** None established
+- **Attacks:** Uses an iron-tipped walking stick as an improvised weapon against Rakers during Chapter 1; exact mechanical values TBD
 - **Spellcasting:** N/A
 
 ### Gear & Wealth
-- **Equipment:** Travel chest, permits, workman's clothing, practical travel supplies
+- **Equipment:** Workman's clothing; travel permits; iron-tipped walking stick temporarily taken from a passenger during the attack; most packed possessions abandoned in the service trench
 - **Other Proficiencies & Languages:** Millwright trade; Common; additional languages TBD
 - **CP / SP / EP / GP / PP:** TBD
 
@@ -141,16 +147,16 @@ During the opening timeline, Lysandra is approximately six months pregnant with 
 - **Eyes:** TBD
 - **Skin:** TBD
 - **Hair:** TBD
-- **Allies & Organizations:** Vale family; Mirella Renn
+- **Allies & Organizations:** Vale family; Renn family friends
 - **Symbol:** None confirmed
-- **Treasure:** Travel permits and family possessions
+- **Treasure:** Travel permits; family possessions largely abandoned during the escape
 - **Character Backstory:** Outer District millwright who spends years securing a route out of New Babylonia for his family and close companions
-- **Additional Features & Traits:** Practical mechanical knowledge; calm under logistical pressure
+- **Additional Features & Traits:** Practical mechanical knowledge; protective decision-making; calm humor under stress
 
 ### Personality Blocks (Sheet Page 1)
 - **Personality Traits:** Dryly humorous, practical, protective
 - **Ideals:** Family safety and self-determination
-- **Bonds:** Lysandra Vale, Sera Vale, unborn Kade Vale, Mirella, Asher
+- **Bonds:** Lysandra Vale, Sera Vale, unborn Kade Vale, Mirella Renn, Asher Renn
 - **Flaws:** Masks fear with confidence and jokes
 
 ---
@@ -161,15 +167,16 @@ During the opening timeline, Lysandra is approximately six months pregnant with 
 ---
 
 ## Canon Notes
-- **Confirmed:** Full name Darius Vale; husband of Lysandra Vale; biological father of Sera Vale and Kade Vale; millwright; organizes the eastward escape; obtains travel permits for his household, Mirella Renn, and Asher Renn
+- **Confirmed:** Full name Darius Vale; husband of Lysandra Vale; biological father of Sera Vale and Kade Vale; millwright; secures travel permits for both families; fights Rakers; abandons the travel chest to keep moving; escapes Eastgate with Lysandra and Sera; promises to wait at the East Marker.
 - **Hidden canon:** Kade Vale is the unborn child Lysandra carries during Chapter 1. Sera Vale is later separated from the family, adopted, and becomes Sera Dain.
-- **Open questions:** Exact age; visual design; final 5E build; precise separation/adoption sequence
+- **Open questions:** Exact age; full visual design; final 5E build; exact post-Eastgate route; precise separation/adoption sequence involving Sera.
 
 ## References
 - `manuscripts/book-01-ignorance/01-the-last-train-east.md`
 - `atlas/characters/darius-vale/growth.md`
-- `atlas/characters/lysandra-vale/profile.md`
-- `atlas/characters/sera-dain/profile.md`
-- `atlas/characters/kade-vale/profile.md`
+- `atlas/families/vale-family.md`
+- `atlas/locations/eastgate-station.md`
+- `atlas/locations/east-marker.md`
+- `atlas/history/eastgate-train-seven-rift-event.md`
 - `project/canon-rules.md`
 - `project/repository-guide.md`
