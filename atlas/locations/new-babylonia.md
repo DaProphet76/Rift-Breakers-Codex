@@ -2,7 +2,7 @@
 title: "New Babylonia"
 type: "location"
 status: "provisional"
-version: "1.0"
+version: "1.1"
 last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
@@ -10,7 +10,12 @@ related_entries:
   - atlas/locations/outer-districts.md
   - atlas/locations/eastern-wall.md
   - atlas/locations/eastgate-station.md
+  - atlas/locations/eastern-settlements.md
+  - atlas/factions/new-babylonia-city-council.md
   - atlas/systems/resettlement-travel-permits.md
+  - atlas/systems/bell-signals.md
+  - atlas/systems/new-babylonia-rail-network.md
+  - atlas/systems/ration-distribution.md
   - manuscripts/book-01-ignorance/00-prologue.md
   - manuscripts/book-01-ignorance/01-the-last-train-east.md
 tags:
@@ -68,4 +73,7 @@ The prologue establishes a wider ring-based social structure: populations retrea
 - `atlas/locations/outer-districts.md`
 - `atlas/locations/eastern-wall.md`
 - `atlas/locations/eastgate-station.md`
+- `atlas/factions/new-babylonia-city-council.md`
+- `atlas/systems/new-babylonia-rail-network.md`
+- `atlas/systems/ration-distribution.md`
 - `project/canon-rules.md`
