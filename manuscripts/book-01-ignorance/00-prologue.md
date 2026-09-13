@@ -45,7 +45,7 @@ Cracks in the world that bled into our realm.
 What bled through hunted us.
 Not armies of men, but invaders all the same.
 Demons. Beasts shaped by hunger. Voices wearing flesh.
-They crossed where the world was thin
+They crossed where the world was thin.
 things that learned our scent and followed our screams.
 
 So we retreated inward.
