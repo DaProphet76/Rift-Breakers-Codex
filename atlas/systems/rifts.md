@@ -2,13 +2,14 @@
 title: "Rifts"
 type: "system_magic_or_anomaly"
 status: "provisional"
-version: "1.0"
+version: "1.1"
 last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
   - atlas/creatures/raker.md
   - atlas/creatures/unidentified-frost-entity.md
+  - atlas/locations/unidentified-eastgate-rift-realm.md
   - atlas/history/eastgate-train-seven-rift-event.md
   - atlas/locations/eastgate-station.md
   - manuscripts/book-01-ignorance/00-prologue.md
@@ -28,7 +29,7 @@ Rifts are tears or openings between the normal world and another realm or space.
 ## Definitions
 - **Rift:** A tear/opening in the world through which hostile entities can cross.
 - **Gateway:** Chapter 1's visual form of an active rift after the initial crack rises into a vertical arch/doorway.
-- **Other side:** The visible environment beyond the Eastgate gateway; its formal realm name is not yet established.
+- **Other side:** The visible environment beyond the Eastgate gateway; its formal realm name is not yet established. It is tracked provisionally as `atlas/locations/unidentified-eastgate-rift-realm.md`.
 
 ## Rules / Constraints
 - A rift can begin as a luminous crack across solid ground.
@@ -65,6 +66,7 @@ No controlled institutional use is established in Chapter 1. The prologue indica
 ## References
 - `manuscripts/book-01-ignorance/00-prologue.md`
 - `manuscripts/book-01-ignorance/01-the-last-train-east.md`
+- `atlas/locations/unidentified-eastgate-rift-realm.md`
 - `atlas/history/eastgate-train-seven-rift-event.md`
 - `atlas/creatures/raker.md`
 - `project/canon-rules.md`
