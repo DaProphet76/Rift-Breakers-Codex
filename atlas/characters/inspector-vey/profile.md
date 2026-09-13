@@ -2,8 +2,8 @@
 title: "Inspector Vey"
 type: "character"
 status: "provisional"
-version: "1.0"
-last_updated: "2026-09-11"
+version: "1.1"
+last_updated: "2026-09-13"
 author: "Yoshua Israel"
 source: "Rift Breakers Project"
 related_entries:
@@ -13,6 +13,10 @@ related_entries:
   - atlas/characters/mirella-renn/profile.md
   - atlas/characters/asher-renn/profile.md
   - atlas/characters/sera-dain/profile.md
+  - atlas/locations/eastgate-station.md
+  - atlas/locations/eastgate-service-trench.md
+  - atlas/systems/resettlement-travel-permits.md
+  - atlas/history/eastgate-train-seven-rift-event.md
 tags:
   - character
   - inspector
@@ -32,59 +36,58 @@ tags:
 - **Role in Story:** Eastgate inspector and armed security figure during the opening evacuation
 
 ### Appearance
-Vey is broad through the shoulders and notably clean at the collar compared with the worn conditions of the Outer Ring. He wears a brass inspector badge and later carries a short rifle during the Raker attack. His full visual design, age, ethnicity, hair, and eye colour are not yet established in current canon.
+Vey is broad through the shoulders and notably clean at the collar compared with the worn conditions of the Outer District. He wears a brass inspector badge, gloves, and official clothing. During the Raker attack he carries a short rifle. A Raker later tears his coat and opens the flesh beneath; afterward he is injured and limping.
 
 ### Personality
-- **Strengths:** Controlled, observant, decisive under immediate danger
-- **Flaws:** Bureaucratic, intimidating, difficult to read, comfortable exercising authority over vulnerable travellers
+- **Strengths:** Controlled, observant, decisive under immediate danger, committed to duty under pressure
+- **Flaws:** Bureaucratic, intimidating, difficult to read, initially prioritizes containment procedure over civilian improvisation
 - **Fears:** TBD
-- **Desires:** Maintain order and control at the Eastgate checkpoint; deeper personal motives TBD
+- **Desires:** Maintain Eastgate control and fulfill his duty to the gate during the attack
 
 ### Background
-Inspector Vey works the Eastgate checkpoint where travel papers, luggage, and resettlement permits are inspected before passengers are allowed through the wall. He represents the city's institutional power at the exact point where Outer District residents are trying to leave it.
+Inspector Vey works the Eastgate checkpoint where travel papers, luggage, and resettlement permits are inspected before passengers are allowed through the wall. He represents New Babylonia's institutional authority at the point where Outer District residents attempt to leave.
 
-During the attack on Train Seven, Vey does not simply disappear into bureaucracy. He takes an active defensive role, orders the gate sealed, fires on Rakers, and later blocks the survivors' path while attempting to drive them back toward the train cars.
+During the attack, Vey shifts from document inspection to armed emergency response. He orders the gate sealed, fires on Rakers, and initially refuses Darius's request to use the service trench because its gate is supposed to remain sealed. After a Raker injures him, Vey gives Darius his key ring and identifies the third key, marked blue, as the trench key.
+
+When Darius asks him to escape with the group, Vey refuses and returns toward the station because he still has a gate to close.
 
 ### Motivations
-- **Short-term:** Process travellers, preserve checkpoint control, and contain the emergency once the Rakers attack
+- **Short-term:** Process travellers, preserve checkpoint control, contain the incursion, and close the Eastern Gate
 - **Long-term:** TBD
 
 ### Relationships
-- **Darius Vale:** Processes Darius's family permits and later confronts him during the evacuation crisis
-- **Lysandra Vale:** Reviews her travel status, pregnancy, and dependent mark at the checkpoint
-- **Mirella Renn:** Reviews Mirella and Asher's papers and questions Asher's parentage
+- **Darius Vale:** Processes Darius's papers; later gives him the service-trench keys after being injured
+- **Lysandra Vale:** Reviews her pregnancy/dependent status at the checkpoint
+- **Mirella Renn:** Reviews Mirella and Asher's travel papers
 - **Asher Renn:** Identified at the checkpoint as Mirella's son
-- **Sera Dain / Sera Vale:** Present as a child in the Vale family during the checkpoint sequence
+- **Sera Vale:** Present as a child in the Vale family during the checkpoint and attack
+- **Eastgate Guards:** Operational authority relationship; exact rank structure remains undefined
 
 ### Arc
 - **Start:** Bureaucratic gatekeeper controlling passage out of New Babylonia
 - **Pressure:** The checkpoint collapses into a Raker attack and mass evacuation
-- **Change:** Moves from administrative authority to armed emergency response
-- **End state (planned):** TBD
+- **Change:** Moves from procedure-first authority to a direct, costly decision that enables civilians to escape through the service trench
+- **End state (current):** Injured and limping back toward the station/gate with rifle in hand; final fate unresolved
 
 ### Secrets / Reveals
-- First name, private history, loyalties, and any connection to larger city authority remain TBD
+- First name, private history, loyalties, and long-term fate remain TBD
 
 ---
 
 ## Current State (Snapshot)
 
-- **Story Point:** Chapter 1 — The Last Train East
-- **Posting / Location:** Eastgate checkpoint and rail yard
-- **Operational Role:** Inspector / checkpoint authority / emergency armed responder
+- **Story Point:** Late Chapter 1 — Eastgate attack
+- **Posting / Location:** Returning toward Eastgate after handing Darius the trench keys
+- **Operational Role:** Inspector / armed emergency responder
 - **What he believes right now:**
-  - Passage is controlled through permits, inspection, and authority
-  - Order must be maintained even during panic
-  - The gate must be secured once the attack begins
+  - The gate still must be closed despite the collapse of normal procedure
+  - His duty remains at Eastgate even when escape is available
 - **Key relationships right now:**
   - Eastgate guards
-  - departing civilians
   - Darius Vale's travelling party
 - **Active objectives:**
-  - Verify travel documents
-  - Control the checkpoint
-  - Seal the gate during the Raker attack
-  - Push survivors back toward controlled areas
+  - Close/secure the gate
+  - Continue defending Eastgate
 
 ---
 
@@ -102,7 +105,7 @@ During the attack on Train Seven, Vey does not simply disappear into bureaucracy
 ### Core Combat
 - **Armor Class (AC):** TBD
 - **Initiative:** TBD
-- **Speed:** 30 ft
+- **Speed:** 30 ft baseline; impaired after Chapter 1 injury
 - **Hit Point Maximum (HP Max):** TBD
 - **Current Hit Points:** TBD
 - **Temporary Hit Points:** 0
@@ -129,7 +132,7 @@ During the attack on Train Seven, Vey does not simply disappear into bureaucracy
 - **Spellcasting:** N/A
 
 ### Gear & Wealth
-- **Equipment:** Inspector badge, official dark coat, travel-document tools, short rifle during emergency response
+- **Equipment:** Brass inspector badge, official coat, gloves, travel-document tools, short rifle; key ring transferred to Darius during the attack
 - **Other Proficiencies & Languages:** Checkpoint procedure, document inspection, city regulations; languages TBD
 - **CP / SP / EP / GP / PP:** TBD
 
@@ -143,14 +146,14 @@ During the attack on Train Seven, Vey does not simply disappear into bureaucracy
 - **Allies & Organizations:** Eastgate checkpoint authority / city security structure
 - **Symbol:** Brass inspector badge
 - **Treasure:** None established
-- **Character Backstory:** City inspector stationed at Eastgate during the Vale/Renn evacuation and subsequent Raker attack
+- **Character Backstory:** City inspector stationed at Eastgate during the Vale/Renn evacuation and subsequent rift attack
 - **Additional Features & Traits:** Calm command presence under emergency conditions
 
 ### Personality Blocks (Sheet Page 1)
 - **Personality Traits:** Controlled, authoritative, observant
-- **Ideals:** Order and containment
-- **Bonds:** Duty to checkpoint authority; exact personal bonds TBD
-- **Flaws:** Bureaucratic detachment; intimidating exercise of authority
+- **Ideals:** Order, containment, duty
+- **Bonds:** Duty to Eastgate; exact personal bonds TBD
+- **Flaws:** Bureaucratic detachment; slow to abandon procedure even when conditions have radically changed
 
 ---
 
@@ -160,12 +163,14 @@ During the attack on Train Seven, Vey does not simply disappear into bureaucracy
 ---
 
 ## Canon Notes
-- **Confirmed:** Known as Inspector Vey; Eastgate inspector; broad-shouldered; clean collar; brass badge; processes the Vale/Renn travel permits; armed with a short rifle during the Raker attack; orders the gate sealed
-- **Not revealed yet:** First name; personal history; exact rank structure; long-term role
-- **Open questions:** Full name; age; appearance; allegiance beyond checkpoint duty; whether he survives the Chapter 1 disaster
+- **Confirmed:** Known as Inspector Vey; broad-shouldered; clean collar; brass badge; Eastgate inspector; processes the Vale/Renn travel permits; carries a short rifle; orders the gate sealed; is injured by a Raker; gives Darius the service-trench keys; refuses evacuation and returns toward the gate.
+- **Not revealed yet:** First name; personal history; exact rank structure; long-term role.
+- **Open questions:** Full name; age; remaining visual design; allegiance beyond checkpoint duty; whether he survives the Chapter 1 disaster.
 
 ## References
 - `manuscripts/book-01-ignorance/01-the-last-train-east.md`
 - `atlas/characters/inspector-vey/growth.md`
+- `atlas/locations/eastgate-station.md`
+- `atlas/locations/eastgate-service-trench.md`
+- `atlas/history/eastgate-train-seven-rift-event.md`
 - `project/canon-rules.md`
-- `project/repository-guide.md`
